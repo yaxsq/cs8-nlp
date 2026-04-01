@@ -1,0 +1,7 @@
+gradio>=4.0.0
+pinecone
+sentence-transformers
+rank-bm25
+groq
+numpy
+python-dotenv

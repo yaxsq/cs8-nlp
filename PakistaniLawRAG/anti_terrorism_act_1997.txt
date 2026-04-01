@@ -1,0 +1,2276 @@
+Page 1 of 57
+THE ANTI-TERRORISM ACT, 1997
+CONTENTS
+1. Short title, extent and commencement
+2. Definitions
+3. Omitted
+4. Calling in of armed forces and civil armed forces in aid of civil power
+5. Use of armed forces and civil armed forces to prevent terrorism
+6. Terrorism
+7. Punishment for acts of terrorism
+8. Prohibition of acts intended or likely to stir up sectarian hatred
+9. Punishment for offence under section 8
+10. Power to enter or search
+11. Power to order forfeiture
+11A. Organizations concerned in terrorism
+11B. Proscription of organizations
+11C. Right of review
+11CC. Proscription review committee
+11D. Observation Order
+11E. Measure to be taken against a proscribed organization
+11EE. Proscription of person
+11EEE. Power to arrest and detain suspected persons
+11EEEE. Preventive detention for inquiry
+11EEEEE. Prohibition on disposal of property
+11F. Membership, support and meetings relating to a Proscribed Organization
+11G. Uniform
+Page 2 of 57
+11H. Fund raising
+11I. Use and possession
+11J. Funding Arrangements
+11K. Money-laundering
+11L. Disclosure of information
+11M. Cooperation with the Police
+11N. Punishment under sections 11H to 11K
+11O. Seizure, freeze and detention
+11OO. Access to services, money or other property
+11OOO. Violation of UN Security Council Resolution
+11P. Application by investigating officer to Court
+11Q. Forfeiture
+11R. Evidentiary standard for forfeiture
+11S. Appeal against forfeiture order
+11T. Deposit of money or other property in a fund
+11U. De-proscription
+11V. Directing terrorist activities
+11W. Printing, publishing or disseminating any material to incite hatred or giving projection to any
+person convicted for a terrorist act or any proscribed organization or an organization
+placed under observation or anyone concerned in terrorism
+11WW, Lynching
+11X. Responsibility for creating civil commotion
+12. Jurisdiction of Anti-terrorism Court
+13. Establishment of Anti-terrorism Court
+14. Composition and appointment of presiding officers of Anti-terrorism Courts
+15. Place of sitting
+16. Oath by Anti-terrorism Courts
+17. Powers of Anti-terrorism Courts with respect to other offences
+18. Public prosecutors
+19. Procedure and Powers of Anti-terrorism Court
+19A. Mode of making searches and arrest
+19B. Pre-trial scrutiny
+19C. Application of investigation techniques
+20. Omitted
+21. Protection to Judges, Counsel, Public Prosecutor, witnesses and persons concerned with Court
+proceedings
+21A.
+ Cordons for Terrorist Investigation
+21AA. Protection of Judges, prosecutors, witnesses and persons concerned with Court proceedings
+Page 3 of 57
+21B. Terrorist Investigation
+21C. Training
+21D. Bail
+21E. Remand
+21EE. Power to call information etc.
+21F. Remissions
+21G. Trial of Offences
+21H. Conditional admissibility of confession
+21I. Aid and abetment
+21J. Harbouring
+21K. Offences triable by way of summary procedure
+21L. Punishment for an absconder
+21M. Joint Trials
+22. Manner and place of execution of sentence
+23. Power to transfer cases to regular courts
+24. Omitted
+25. Appeal
+26. Omitted
+27. Punishment for defective investigation and reward for successful investigation
+27A. Presumption of proof against accused
+27AA. Punishment for false implication
+27B. Conviction on the basis of electronic or forensic evidence etc.
+28. Transfer of Cases
+28A. Impounding of passport of person charge-sheeted under the Act
+29. Trial before Anti-terrorism Court to have precedence
+30. Modified application of certain provisions of the Code
+31. Finality of judgment
+32. Overriding effect of Act
+33. Delegation
+34. Power to amend the Schedule
+35. Powers to make rules
+36. Saving
+37. Contempt of Court
+38. Punishment for terrorist act committed before this Act
+Page 4 of 57
+39. Indemnity
+39A. Removal of difficulties
+39B. Repeal and savings
+40. Amendment of the Criminal Law Amendment Act, 1908 (XIV of 1908)
+THE FIRST SCHEDULE
+THE SECOND SCHEDULE
+THE THIRD SCHEDULE
+THE FOURTH SCHEDULE
+THE FIFTH SCHEDULE
+Page 5 of 57
+The Anti-Terrorism Act, 1997
+1Act No. XXVII of 1997
+[16th August, 1997]
+An Act to provide for the prevention of terrorism, sectarian violence and for speedy trial of
+heinous offences;
+WHEREAS it is expedient to provide for the prevention of terrorism, sectarian violence and
+for speedy trial of heinous offences and for matters connected therewith and incidental thereto;
+It is hereby enacted as follows:__
+1. Short title, extent and commencement. (1) This Act may be called the Anti-terrorism Act,
+1997.
+(2) It extends to the whole of Pakistan.
+(3) It shall come into force at once.
+2. Definitions.___ In this Act, unless there is anything repugnant in the subject or context,__
+(a) “armed forces” means the Military, Naval and Air Forces of Pakistan and the
+Reserves of such Forces;
+(b) “civil armed forces” means the Frontier Constabulary, Frontier Corps, Pakistan
+Coast Guards, Pakistan Rangers or any other civil armed force notified by the
+Federal Government as such;
+(c) “Code” means the Code of Criminal Procedure, 1898 (Act V of 1898);
+(d) 2
+[“child” means a person who at the time of the commission of the offence has not
+attained the age of eighteen years;
+(e) “court” means an Anti-terrorism Court established under section 13;
+(f) “explosives” means any bomb, grenade, dynamite, or explosive substance capable
+of causing an injury to any person or damage to any property and includes any
+explosive substance as defined in the Explosives Act, 1884 (Act IV of 1884);
+(g) “firearms” means any or all types and gauges of handguns, rifles and shotguns,
+whether automatic, semi-automatic or bolt action, and shall include all other
+firearms as defined in the Arms Ordinance, 1965 (W.P. Ord. XX. of 1965);
+1The Anti-terrorism Act, 1997 and all Rules, Notifications and Orders issued thereunder have been adopted in the Northern Areas vide S.R.O. No.
+496(1) 2000, dated 11-7-2000.
+2Subs. by Ordinance No. XXXIX of 2001, s. 2.
+Page 6 of 57
+(h) “fine”, means a pecuniary amount to be determined by the Court having regard to
+the facts and circumstances of the case;
+1
+[(ha) “freeze” means to prohibit the transfer, conversion, disposition or movement of any
+money or other property;]
+(i) “Government” means the Federal Government or, as the case may be, a Provincial
+Government;
+(j) “grievous”, in relation to bodily injury, means any emasculation, mutilation,
+incapacitation, disfigurement or severe harm or hurt; and in relation to property,
+means severe loss, damage or destruction;
+(k) “High Court” means the High Court having territorial jurisdiction in respect of the
+area for which an Anti-terrorism Court has been established;
+(l) “hijacking” means any unlawful seizure or exercise of control, or any attempt at
+unlawful seizure or exercise of control, of an aircraft, by force, violence, threat or
+any form of obstruction, directly or through any other person, from within or
+outside the aircraft;
+(m) “hostage taking” means the holding of a person captive with threats made to kill
+or harm that person if demands are not met;
+(n) “kidnapping for ransom” means the action of conveying any person from any
+place, without his consent, or by force compelling or by any deceitful means
+inducing him, to go from any place, and unlawfully detaining him and demanding
+or attempting to demand, money, pecuniary or other benefit from him or from
+another person, as a condition of his release;
+(o) “meeting” means a meeting of two or more persons, whether in public or private;
+2
+[(oa) “money” includes coins or notes in any currency, postal orders, money orders, bank
+credits, bank accounts, letter of credit, travelers cheques, bank cheques, bankers
+draft, in any form, electronic, digital or otherwise and such other kinds of
+monetary instruments or documents as the Federal Government may by order
+specify;]
+(p) “organization” means any group, combination or body of persons 2
+[****];
+3
+[(pa) “person” means any natural, legal person or body corporate;]
+1
+Ins. and subs. by Act No. VII of 2014, s. 2.
+2
+Ins. and omitted by Act No. XIII of 2013, s. 2.
+3
+Ins. by the Act No. XX of 2020, s. 2.
+Page 7 of 57
+1
+[
+2
+[(paa)] “property” means property of every description, whether corporeal or
+incorporeal, movable or immovable, tangible or intangible and includes shares,
+securities, bonds and deeds and instruments evidencing title to, or an interest in,
+property of any kind and money;]
+3
+[(q) “proscribed organization” means any organization which is listed in the First
+Schedule under section 11B;]
+3
+[(qa) “proscribed person” means any individual who is listed in the Fourth Schedule
+under section 11EE;]
+(r) “public servant” shall have the same meaning as in Section 21 of the Pakistan
+Penal Code, 1860, or in any other law for the time being in force;
+(s) “Schedule” means a Schedule to this Act;
+(t) “Scheduled offence” means an offence as set out in the Third Schedule;
+(u) “sectarian” means pertaining to, devoted to, peculiar to, or one which promotes
+the interest of a religious sect, or sects, in a bigoted or prejudicial manner;
+(v) “sectarian hatred” means hatred against a group of persons defined by reference
+to religion, religious sect, religious persuasion, or religious belief;
+3
+[(va) “seize” means to take custody or control of money or other property in order to
+prohibit its transfer, conversion, disposition or movement;]
+(w) “serious” means dangerous to life or property;
+(x) “terrorism” or “act of terrorism” has the meaning as assigned to it in section 6;
+(y) “terrorist” has the meaning as assigned to it in section 4
+[6(7)];
+(z) “terrorist investigation” means an investigation of:
+(a) the commission, preparation or instigation of acts of terrorism under this
+Act;
+(b) an act which appears to have been done for the purposes of terrorism;
+(c) the resources of proscribed organization;
+(d) the commission, preparation or instigation of an offence under this Act; or
+1
+Ins. by Act No. XIII of 2013, s. 2.
+2Re-numbered by Act No. XX of 2020, s. 2.
+3Subs. and ins. by Act No. VII of 2014, s. 2.
+
+4Subs. by Act No. XXVIII of 2025, s. 2.
+Page 8 of 57
+(e) any other act for which investigation may be necessary for the purposes of
+this Act.
+(aa) “terrorist property” means:
+(i)
+(a) money or other property which is used or is likely to be used for the
+purposes of terrorism [including any resources of 1
+[an organization
+concerned in terrorism or a terrorist]];
+(b) proceeds of the commission of acts of terrorism;
+(c) proceeds of acts carried out for the purposes of terrorism; and
+(ii) In sub-section (i) above;
+(a) a reference to proceeds of an act, includes reference to any property
+which wholly or partly and directly or indirectly represents the
+proceeds of the act (including payments of other rewards in
+connection with the commission); 1
+[and]
+(b) the reference to an organization’s resources include a reference to
+any money or other property which is applied or made available, or
+is to be applied or made available, for use by the organization,
+1
+[;]
+(c) 1
+[* * * * * * *]
+(bb) “weapons” means any items which can be used to injure or cause
+bodily harm, and includes any type of firearm, explosive, sword, dagger, knuckleduster, stengun, bomb, grenade, rocket launcher, mortar or any chemical, biological
+weapon or any other thing which can be used for causing injury, hurt, harm or
+destruction of person or property, and includes ‘illicit arms’ as defined in the
+Surrender of Illicit Arms Act, 1991 (XXI of 1991); and
+(cc) all other terms and expressions used but not defined in this Act, shall have the
+meanings as are assigned to them in the Pakistan Penal Code, 1860, or the Code of
+Criminal Procedure, 1898.]
+3. 2
+[* * * * * * *]
+1Subs., added and omitted by Act No. XIII of 2013, s. 2.
+2Omitted by Ordinance No. XXXIX of 2001, s. 3.
+Page 9 of 57
+4. Calling in of armed forces and civil armed forces in aid of civil power.__ (1) It shall be lawful
+for the Federal Government to order, and subject to sub-section (2), for the Provincial Government to
+secure, the presence of armed forces and civil armed forces in any area for the prevention and punishment
+of terrorist acts and scheduled offences in accordance with the provisions of this Act.
+(2) If, in the opinion of the Provincial Government, the presence of armed forces, or civil armed
+forces, is necessary in order to prevent the commission of terrorist acts or scheduled offences in any
+area, it may request the Federal Government to direct the presence or posting of units or personnel of the
+armed forces, or civil armed forces, in such numbers as may be deemed necessary for the prevention or
+control of terrorist acts or scheduled offences.
+(3) The Federal Government may decide whether the requirements of the situation call for the
+deployment of__
+(i) the civil armed forces; or
+(ii) the armed forces,
+and on so deciding shall, by means of a notification in the official Gazette issued under clause (i) or (ii)
+or both, authorise and direct the posting thereof.
+5. Use of armed forces and civil armed forces to prevent terrorism.___ (1) Any police officer,
+or member of the armed forces, or civil armed forces, who is present or deployed in any area may, after
+giving sufficient warning, use the necessary force to prevent the commission of terrorist acts or scheduled
+offences, and, in so doing shall, in the case of an officer of the armed forces or civil armed forces, exercise
+all the powers of a police officer under the Code.
+(2) In particular and without prejudice to the generality of the provisions of sub-section (1), an
+officer of the police, armed forces and civil armed forces may__
+(i) after giving prior warning use such force as may be deemed necessary or
+appropriate, bearing in mind all the facts and circumstances of the situation, against
+any person who is committing 1
+[* * * * * *] a terrorist act or a scheduled offence.
+2
+[it shall be lawful for any such officer, or any senior officer,] 3
+[after forming
+reasonable apprehension that death or grievous hurt may be caused by such act or
+offence] to fire, or order the firing upon any person or persons against whom he is
+authorized to use force in terms hereof 3
+[:]
+3
+[Provided that an order to open fire in such circumstances shall be given by
+a police officer not below the rank of BS-17 and equivalent rank in the case of a
+member of Armed Forces or civil Armed forces or by a Magistrate on duty:
+1Omitted by Ordinance No. XIII of 1999, s. 4.
+2Subs. by Ordinance No. XXXIX of 2001, s. 4.
+3Subs. and added by Act No. VI of 2014, s. 2.
+Page 10 of 57
+Provided further that the decision to fire or order firing shall be taken only by
+way of last resort, and shall in no case extend to the inflicting of more harm than is
+necessary to prevent the terrorist act or scheduled offence which has given rise to
+the reasonable apprehension of death or grievous hurt:
+Provided further that all cases of firing which have resulted in death or
+grievous injury shall be reviewed by an internal inquiry committee constituted by
+the head of the law enforcement agency concerned.]
+(ii) arrest without warrant, any person who has committed an act of terrorism or a
+scheduled offence or against whom a reasonable suspicion exists that he has
+committed, or is about to commit, any such act or offence; and
+(iii) enter and search, without warrant, any premises to make any arrest or to take
+possession of any property, fire arm, weapon or article used, or likely to be used,
+in the commission of any terrorist act or scheduled offence.
+(3) Nothing contained in sub-section (1) or (2) shall affect the provisions of Chapter IX of the
+Code and the provision of section 132 of the Code shall apply to any person acting under this section.
+1
+[6. Terrorism.___ (1) In this Act, “terrorism” means the use or threat of action where:
+(a) the action falls within the meaning of sub-section (2), and
+(b) the use or threat is designed to coerce and intimidate or overawe the Government
+or the public or a section of the public or community or sect 2
+[or a foreign
+government or population or an international organization] or create a sense of fear
+or insecurity in society; or
+(c) the use or threat is made for the purpose of advancing a religious, sectarian or ethnic
+cause 3
+[or intimidating and terrorizing the public, social sectors, media persons,
+business community or attacking the civilians, including damaging property by
+ransacking, looting, arson or by any other means, government officials,
+installations, security forces or law enforcement agencies].
+3
+[Provided that nothing herein contained shall apply to a democratic and religious rally or
+a peaceful demonstration in accordance with law.]
+(2) An “action” shall fall within the meaning of sub-section (1), if it:
+(a) involves the doing of anything that causes death;
+1Subs. by Ordinance No. XXXIX of 2001, s. 5.
+2
+Ins. by Act No. XIII of 2013, s. 3.
+3Added by Act No. XX of 2013, s. 2.
+Page 11 of 57
+(b) involves grievous violence against a person or grievous bodily injury or harm to a
+person;
+(c) involves grievous damage to property 1
+[, including government premises, official
+installations, schools, hospitals, offices or any other public or private property
+including damaging property by ransacking, looting or arson or by any other
+means];
+(d) involves the doing of anything that is likely to cause death or endangers a person’s
+life;
+(e) involves kidnapping for ransom, hostage-taking or hijacking;
+2
+[(ee) involves use of explosives by any device including bomb blast 1
+[or having any
+explosive substance without any lawful justification or having been unlawfully
+concerned with such explosive];]
+(f) incites hatred and contempt on religious, sectarian or ethnic basis to stir up violence
+or cause internal disturbance;
+1
+[(g) involves taking the law in own hand, award of any punishment by an
+organization, individual or group whatsoever, not recognized by the law, with a
+view to coerce, intimidate or terrorize public, individuals, groups, communities,
+government officials and institutions, including law enforcement agencies beyond
+the purview of the law of the land;]
+(h) involves firing on religious congregation, mosques, imambargahs, churches,
+temples and all other places of worship, or random firing to spread panic, or
+involves any forcible takeover of mosques or other places of worship;
+(i) creates a serious risk to safety of the public or a section of the public, or is designed
+to frighten the general public and thereby prevent them from coming out and
+carrying on their lawful trade and daily business, and disrupts civic life;
+(j) involves the burning of vehicles or any other serious form of arson;
+(k) involves extortion of money (“bhatta”) or property;
+(l) is designed to seriously interfere with or seriously disrupt a communication system
+or public utility service;
+(m) involves serious coercion or intimidation of a public servant in order to force him
+to discharge or to refrain from discharging his lawful duties; 1
+[*]
+(n) involves serious violence against a member of the police force, armed forces, civil
+armed forces, or a public servant.
+1Added, subs. and omitted by Act No. XX of 2013, s. 2.
+2
+Ins. by Act No. II of 2005, s. 2.
+Page 12 of 57
+1
+[(o) involves in acts as part of armed resistance by groups or individuals against law
+enforcement agencies; or
+(p) involves in dissemination, preaching ideas, teachings and beliefs as per own
+interpretation on FM stations or through any other means of communication
+without explicit approval of the government or its concerned departments.]
+(3) The use or threat of use of any action falling within sub-section (2), which involves the use of
+firearms, explosives or any other weapon, is terrorism, whether or not sub-section (1) (c) is satisfied.
+2
+[(3A) Notwithstanding anything contained in sub-section (1), an action in violation of a
+convention specified in the Fifth Schedule shall be an act of terrorism under this Act;]
+(4) In this section “action” includes an act or a series of acts.
+(5) In this Act, terrorism includes any act done for the benefit of a proscribed organization.
+(6) A person who commits an offence under this section or any other provision of this Act, shall
+be guiltyof an act of terrorism.
+(7) In this Act, a terrorist means:
+(a) 3
+[any person] who has committed an offence of terrorism under this Act, and is or
+has been concerned in the commission, preparation 2
+[facilitation, funding] or
+instigation of acts of terrorism;
+(b) 3
+[any person] who is or has been, whether before or after the coming into force of
+this Act, concerned in the commission, preparation 2
+[facilitation, funding] or
+instigation of acts of terrorism, shall also be included in the meaning given in clause
+(a) above.]
+4
+[7. Punishment for acts of terrorism.___ 1
+[(1)] Whoever commits an act of terrorism under
+section 6, whereby–
+(a) death of any person is caused, shall be punishable, on conviction, with death or
+with imprisonment for life, and with fine; or
+1Added and re-numbered by Act No. XX of 2013, ss. 2 and 3.
+2
+Ins. and subs. by Act No. XIII of 2013, s. 3.
+3Subs. by Act No. XXIII of 2020, s. 2.
+4Subs. by Ordinance No. XXXIX of 2001, s. 6.
+Page 13 of 57
+(b) he does anything likely to cause death or endangers life, but death or hurt is not
+caused, shall be punishable, on conviction, with imprisonment of either description
+for a term which shall not be less than 1
+[ten years] but may extend to
+1
+[imprisonment for life] and with fine;
+(c) grievous bodily harm or injury is caused to any person, shall be punishable, on
+conviction, with imprisonment of either description for a term which shall not be
+less than 1
+[ten years] but may extend to imprisonment for life and shall also be
+liable to a fine; or
+(d) grievous damage to property is caused, shall be punishable on conviction, with
+imprisonment, of either description for a term not less than ten years 1
+[but may
+extend to imprisonment for life], and shall also be liable to a fine; or
+(e) the offence of kidnapping for ransom or hostage-taking has been committed, shall
+be punishable, on conviction, with death or imprisonment for life 2
+[*******]; or
+(f) the offence of hijacking, has been committed, shall be punishable, on conviction,
+with death or imprisonment for life 2
+[*******] and fine;
+1
+[(ff) the act of terrorism committed falls under section 6(2) (ee), shall be punishable with
+imprisonment which shall not be less than fourteen years but may extend to
+imprisonment for life;]
+(g) the act of terrorism committed falls under section 6(2) (f) and (g), shall be
+punishable, on conviction, with imprisonment of not less than 1
+[two years] and not
+more than 1
+[five years] and with fine; or
+(h) the act of terrorism committed falls under clauses (h) to (n) of sub section (2) of
+section 6, shall be punishable, on conviction, to imprisonment of not less than 1
+[five
+years] 1
+[but may extend to imprisonment for life] and with fine; and
+(i) any other act of terrorism not falling under clauses (a) to (h) above or under any
+other provision of this Act, shall be punishable, on conviction, to imprisonment of
+not less than 1
+[five years] and not more than 1
+[ten years] or with fine or with both.
+2
+[(2) An accused, convicted of an offence under this Act shall be punishable with imprisonment
+of ten years or more, including the offences of kidnapping for ransom and hijacking shall also be liable to
+forfeiture of property.]
+7A-7B.
+3
+[* * * * * * *]
+1Subs. and ins. by Act No. II of 2005, s. 3.
+2Omitted and added by Act No. XX of 2013, s. 3.
+3Sections 7A and 7B omitted by Ordinance No. XXIX of 2000, s. 5.
+Page 14 of 57
+8. Prohibition of acts intended or likely to stir up sectarian hatred.___ A person who__
+(a) uses threatening, abusive or insulting words or behaviors; or
+(b) displays, publishes or distributes any written material which is threatening, abusive
+or insulting; or
+(c) distributes or shows or plays a recording of visual images or sounds which are
+threatening, abusive or insulting; or
+(d) has in his possession written material or a recording or visual images or sounds
+which are threatening, abusive or insulting with a view to their being displayed or
+published by himself or another,
+shall be guilty of an offence if___
+(i) he intends thereby to strip up sectarian hatred; or
+(ii) having regard to all the circumstances, sectarian hatred is likely to be stirred up
+thereby.
+9. Punishment for offence under section 8.__ Whoever contravenes any provision of section
+8 shall be punished with 1
+[*] imprisonment for a term which may extend to 2
+[five] years 1
+[and with fine].
+10. Power to enter or search.___
+If any officer of the police, armed forces or civil armed forces is
+satisfied that there are reasonable grounds for suspecting that a person has possession of written material
+or a recording in contravention of section 8 he may enter and search the premises where it is suspected
+the material or recording is situated and take possession of the same 1
+[:]
+1
+[Provided that the concerned officer shall first record in writing his reasons for such belief and
+serve a copy thereof either on the person or on the premises.]
+11. Power to order forfeiture.___
+(1) 1
+[An Anti-terrorism Court] by which a person is convicted
+of an offence under section 9 shall order to be forfeited any material or recording referred to therein.
+(2) Where the person who collected the material or recording cannot be found or identified the
+1
+[Anti- terrorism Court] on the application of the officer seizing the material or recording, shall forfeit the
+material or recording to the State to be disposed of as directed by it.
+2
+[11A. Organizations concerned in terrorism.–
+3
+[(1)] For the purposes of this Act, an
+organization is concerned in terrorism if it:
+1Omitted, subs. and added by Ordinance No. XIII of 1999, ss. 2, 8 and 9.
+2Subs. and ins. by Ordinance No. XXXIX of 2001, ss. 7 and 8.
+3Numbered by Act No. XIII of 2013, s. 4.
+Page 15 of 57
+(a) commits 1
+[facilitates] or participates in acts of terrorism;
+(b) prepares for terrorism;
+(c) promotes or encourages terrorism;
+(d) supports and assists any organization concerned with terrorism;
+(e) patronizes and assists in the incitement of hatred and contempt on religious,
+sectarian or ethnic lines that stir up disorder;
+(f) fails to expel from its ranks or ostracize those who commit acts of terrorism and
+presents them as heroic persons; or
+(g) is otherwise concerned in terrorism.
+1
+[(2) An organization shall fall within the meaning of sub-section (1) if it__
+(a) is owned or controlled, directly or indirectly, by a terrorist or an organization
+referred in sub-section (1); or
+(b) acts on behalf of, or at the direction of, a terrorist or an organization referred in
+sub-section (1).]
+2
+[11B. Proscription of organizations.__ (1) The Federal Government may, by order published
+in the official Gazette, list an organization as a proscribed organization in the First Schedule on an ex parte
+basis, if there are reasonable grounds to believe that it is—
+(a) concerned in terrorism; or
+(b) owned or controlled, directly or indirectly, by any individual or organization
+proscribed under this Act; or
+(c) acting on behalf of, or at the direction of, any individual or organization
+proscribed under this Act.
+1
+Ins. and added by Act No. XIII of 2013, s. 4.
+2Subs. by Act No. VII of 2014, s. 3.
+Page 16 of 57
+Explanation.— The opinion concerning reasonable grounds to believe may be formed on the basis
+of information received from any credible source, whether domestic or foreign including governmental
+and regulatory authorities, law enforcement agencies, financial intelligence units, banks and non-banking
+companies, and international institutions.
+(2) The grounds shall be communicated to the proscribed organization within three days of the
+passing of the order of proscription.]
+11C. Right of Review.___ 1
+[(1) Where any proscribed organization is aggrieved by the order of
+the Federal Government, made under section 11B, it may, within thirty days of such order, file a review
+application, in writing, before the Federal Government, stating the grounds on which it is made and the
+Federal Government shall, after hearing the applicant, decide the matter on reasonable grounds within
+ninety days.]
+(2) An organization whose review application has been refused under sub-section (1) may file an
+appeal to the High Court within thirty days of the refusal of the review application.
+(3) 1
+[* * * * * * *]
+1
+[11CC. Proscription Review Committee.___ The Federal Government shall constitute a
+Proscription Review Committee, comprising three Government officers, including a representative of the
+Ministry of Law and Justice, with the Chairman of the Committee being a person not below the rank of a
+Joint Secretary to the Federal Government, to decide, within thirty days, review applications filed under
+sections 11C and 11EE.]
+11D. Observation Order.
+___ (1) Where the Federal Government, has 1
+[reasonable grounds] to
+believe that an organization is acting in a manner that it may be concerned in terrorism:
+(1) The organization may be kept under observation, if:
+(a) the name of the organization is listed in the Second Schedule by order of the
+Federal Government; or
+(b) it operates under the same name as an organization listed in the Second Schedule.
+(2) An organization or a person aggrieved by the observation order passed under sub-section (1)
+may file a review application before the Federal Government, which shall, after hearing the applicant,
+decide the matter within sixty days.
+(3) Where the organization is under observation, the Federal Government may further extend the
+period of observation, only after giving the organization an opportunity of being heard.
+(4) Each observation period shall be for six months, and may be extended by the Federal
+Government only after giving an opportunity of being heard to the organization concerned.
+1Subs., omitted and ins. by Act No. VII of 2014, ss. 4-6.
+Page 17 of 57
+11E. Measure to be taken against a proscribed organization.– (1) Where any organization shall
+be proscribed:
+(1) amongst other measures to be taken by the Federal Government__
+(a) its offices, if any, shall be sealed;
+(b) 1
+[* * * * * * *];
+(c) all literature, posters, banners, or printed, electronic, digital or other material shall
+be seized; and
+(d) publication, printing or dissemination of any press statements, press conferences
+or public utterances by or on behalf of or in support of a proscribed organization
+shall be prohibited.
+2
+[(1A) Upon proscription of an organization if the office bearers, activists, or the members or the
+associates of such organization are found continuing the activities of the proscribed organization, in
+addition to any other action under this Act or any other law for the time being in force to which they may
+be liable,__
+(a) they shall not be issued any passport or allowed to travel abroad;
+(b) no bank or financial institution or any other entity providing financial support shall
+provide any loan facility or financial support to such persons or issue the credit
+cards to such persons; and
+(c) the arms licenses, if already issued, shall be deemed to have been cancelled and the
+arms shall be deposited forthwith in the nearest Police Station, failing which such
+arms shall be confiscated and the holders of such arms shall be liable for the
+punishment provided under the Pakistan Arms Ordinance, 1965 (W.P. __ XX of
+1965). No fresh license, to such persons for any kind of weapon, shall be issued.]
+(2) The Proscribed Organization shall submit all accounts of its income and expenditure for its
+political and social welfare activities and disclose all funding sources to the competent authority
+designated by the Federal Government.
+3
+[11EE. 1
+[Proscription of person].–
+1
+[(1) The Federal Government may, by order published in
+the official Gazette, list a person as a proscribed person in the fourth Schedule on an ex-parte basis, if
+there are reasonable grounds to believe that such person is—
+(a) concerned in terrorism;
+(b) an activist, office bearer or an associate of an organization kept under observation
+under section 11D or proscribed under section 11B; and
+1Omitted and subs. by Act No. VII of 2014, ss. 7-8.
+2
+Ins. by Act No. XX of 2013, s. 5.
+3
+Ins. by Ordinance No. CXXV of 2002, s. 2.
+Page 18 of 57
+(c) in any way concerned or suspected to be concerned with such organization or
+affiliated with any group or organization suspected to be involved in terrorism or
+sectarianism or acting on behalf of, or at the direction of, any person or organization
+proscribed under this Act:
+Explanation.
+__ The opinion concerning reasonable grounds to believe may be
+formed on the basis of information received from any credible source, whether
+domestic or foreign including governmental and regulatory authorities, law
+enforcement agencies, financial intelligence units, banks and non-banking
+companies, and international institutions.]
+1
+[(1A) The grounds shall be communicated to the proscribed person within three days of the
+passing of the order of proscription.]
+(2) Where a person’s name is listed in the Fourth Schedule, the Federal Government 1
+[***],
+as the case may be, without prejudice to any other action which may lie against such person under this
+Act or any other law for the time being in force, may take following actions and exercise following powers,
+namely: -
+(a) require such person to execute a bond with one or more sureties to the satisfaction
+of the District Police Officer in the territorial limits of which the said person
+ordinarily resides, or carries on business, for his good behaviour and not involve
+in any act of terrorism or in any manner advance the objectives of the organization
+referred to sub-section (1) for such period not exceeding three years and in such
+amount as may be specified:
+Provided that where he fails to execute the bond or cannot produce a
+surety or sureties to the satisfaction of the District Police Officer order him to be
+detained and produced within twenty-four hours before a court which shall order
+him to be detained in prison until he executes the bond or until a satisfactory surety
+or sureties if required, are available or, failing that the term of the order under clause
+(a) expires:
+Provided further that where he is a minor, the bond executed by a surety or
+sureties only may be accepted,
+(b) require any such person to seek prior permission from the officer incharge of the
+Police Station of the concerned area before moving from his permanent place of
+residence for any period of time and to keep him informed about the place he would
+be visiting and the persons, he would be meeting during the stay,
+(c) require:
+(i) that his movements to be restricted to any place or area specified in the
+order,
+1
+Ins. and omitted by Act No. VII of 2014, s. 8.
+Page 19 of 57
+(ii) him to report himself at such times and places and in such mode as may
+bespecified in the order;
+(iii) him to comply with both the direction,
+1
+[*]
+(iv) that he shall not reside within areas specified in the order,
+1
+[v. no bank or financial institution or any other entity providing financial
+support shall provide any loan facility or financial support to proscribed
+person or issue credit cards to proscribed persons; and
+vi. the arms licenses, if already issued, shall be deemed to have been
+cancelled and the arms shall be deposited forthwith in the nearest Police
+Station, failing which such arms shall be confiscated and the holders of such
+arms shall be liable for the punishment provided under the Pakistan Arms
+Ordinance, 1965 (W.P. Ord. XX of 1965). No fresh license shall be issued
+to such person for any kind of weapons;]
+(d) direct that he shall not visit or go within surroundings specified in the order
+including any of the under mentioned places, without the written permission of the
+officer incharge of the Police Station within whose jurisdiction such place is
+situated, namely:__
+(i) schools, colleges and other institutions where persons under twenty-one years
+of age or women are given education or other training or are housed
+permanently or temporarily;
+(ii) theatres, cinemas, fairs, amusement parks, hotels, clubs, restaurants, tea shops
+and other place of public entertainment or resort;
+(iii) airports, railway stations, bus stands, telephone exchanges, television
+stations, radio stations and other such places;
+(iv) public or private parks and gardens and public or private playing fields; and
+(v) the scene of any public meeting or procession of any assemblage of the
+public whether in an enclosed place or otherwise in connection with any
+public event, festival or other celebrations;
+(e) check and probe the assets of such persons or their immediate family members i.e.,
+parents, wives and children through police or any other Government agency, which
+shall exercise the powers as are available to it under the relevant law for the purposes
+of the investigation, to ascertain whether assets and sources of income are legitimate
+and are being spent on lawful objectives:
+1Omitted and added by Act No. XXIII of 2020, s. 3.
+Page 20 of 57
+Provided that no order under clause (d) or (e) above shall be made operative
+for aperiod of more than three years; and
+(f) monitor and keep surveillance over the activities of such person through police or
+any other Government agency or any person or authority designated for the purpose.
+1
+[(3) Where any person is aggrieved by the order of the Federal Government made under subsection (1), he may, within thirty days of such order, file a review application, in writing, before the Federal
+Government stating the grounds on which it is made and the Government shall, after hearing the applicant,
+decide the matter on reasonable grounds within ninety days.]
+1
+[(3A) A person whose review application has been refused under sub-section (3) may file an
+appeal to the High Court within thirty days of the refusal of the review application.]
+(4) Any person who violates any direction or order of the Federal Government 1
+[***] or any terms
+of bond referred to in sub-section (2), shall be punishable with imprisonment of either description for a
+term which may extend to three years, or with fine, or with both.]
+2
+[11EEE. Power to arrest and detain suspected persons.__ (1) Government if satisfied that with
+a view to prevent any person whose name is included in the list referred to in section 11EE, it is necessary
+so to do, may, by order in writing, direct to arrest and detain, in such custody as may be satisfied, such
+person for such period as may be specified in the order, and Government if satisfied that for the aforesaid
+reasons it is necessary so to do, may, extend from time to time the period of such detention for a total
+period not exceeding twelve months.
+(2) The provisions of Article 10 of the Constitution of the Islamic Republic of Pakistan shall
+mutatis mutandis apply to the arrest and detention of a person ordered under sub-section (1).]
+3
+[11EEEE. Preventive detention for inquiry.
+__ 4
+[(1) The Government or, where the provisions of
+section 4 have been invoked, the armed forces or civil armed forces, as the case may be, subject to the
+specific or general order of the Government in this regard, for a period not exceeding three months and after
+recording reasons thereof, issue order for the preventative detention of any person who has been concerned
+in any offence under this Act relating to the security or defence of Pakistan or any part thereof, or public
+order relating to target killing, kidnapping for ransom, and extortion, bhatta, or the maintenance of supplies
+or services, or against whom sufficient grounds exist of his having been so concerned, for purpose of
+inquiry:
+Provided that the detention of such person, including detention for a further period after three months,
+shall be subject to the provision of Article 10 of the Constitution.]
+______________________________________________________________________________________
+1Subs., ins. and omitted by Act No. VII of 2014, s. 8.
+2
+Ins. by Ordinance No. CXXV of 2002, s. 3.
+3
+Ins. by Act No. XX of 2013, s. 6.
+ 4Subs. by Act No. XXVIII of 2025, s. 3.
+Page 21 of 57
+(2) The inquiry under sub-section (1) may be conducted by a police officer not below the rank of
+Superintendent of Police or through a Joint Interrogation Team (JIT) to be notified by the Government
+comprising a police officer not below the rank of Superintendent of Police and officers of other
+investigation agencies and the powers of the inquiry officer will be vested as per section 5 of the Federal
+Investigation Agency Act, 1974 (VIII of 1975) 1
+[:]
+2
+[Provided that where the detention order has been issued by the armed forces or civil armed
+forces under sub-section (1), the inquiry shall be conducted by the JIT comprising of a police officer not
+below the rank of Superintendent of Police, Intelligence agencies, civil armed forces, armed forces, and
+other law enforcing agencies.]
+2
+[(2A) The provisions of sub-sections (1) and (2) shall remain in force for a period of three years
+from the commencement of the Anti-Terrorism (Amendment) Act, 2025 (XXVIII of 2025).]
+(3) The detenue shall be produced in camera before the presiding officer of the court or in his
+absence before the District and Sessions Judge or the Magistrate appointed under the Shariah Nizam-eAdl Regulation, 2009, within twenty-four hours of his detention, and before the presiding officer of the
+court if and when any extension in the period of detention is requested.
+(4) During inquiry the concerned police officer not below the rank of Superintendent of Police or
+equivalent officer of the law enforcement agencies or the members of Joint Interrogation Team (JIT) as
+the case may be, shall have all the powers relating to search, arrest of persons and seizure of property, and
+other relevant material connected with the commission of offence and shall have all the powers as a Police
+Officer has in relation to the investigation of offences under the Code or any other law for the time being
+in force:
+Provided that the detenue shall be kept in a detention centre so notified by the Government and the
+presiding officer of the court or the Magistrate, as the case any be referred in sub-section (3) shall have
+the authority to inspect the detention centers to ensure that the custody is in accordance with the law for
+the time being in force.
+1
+[(5) Any person detained under this section shall be provided facility of medical checkup as may
+be prescribed by rules.]
+11EEEEE. Prohibition on disposal of property.___(1) If during the course of inquiry or
+investigation, the police officer not below the rank of Superintendent of Police or the Joint Investigation
+Team, as the case, may be has sufficient evidence to believe that any property which is subject matter
+of the inquiry or investigation is likely to be removed transferred or otherwise disposed of before an order
+of the appropriate authority for its seizure is obtained, such officer or the team may, be order in writing,
+direct the owner or any person who is, for the time being, in possession thereof not to remove, transfer or
+otherwise dispose of such property in any manner except with the previous permission of such officer or
+the team, as the case may be, and such order shall be subject to any order made by the Court having
+jurisdiction in the matter.
+1Subs. and ins. by Act No. VI of 2014, s. 3.
+2Subs. by Act No. XXVIII of 2025, s. 3.
+Page 22 of 57
+(2) Any contravention of an order made under sub-section (1) shall be punishable with rigorous
+imprisonment for a term which may extend to two years, or with fine, or with both.]
+11F. Membership, support and meetings relating to a Proscribed Organization: (1) A
+person is guilty of an offence if he belongs or professes to belong to a proscribed organization.
+(2) A person guilty of an offence under subsection (1) shall be liable on conviction to a term not
+exceeding six months imprisonment and a fine.
+(3) A person commits an offence if he:
+(a) solicits or invites support for a proscribed organization, and the support is not, or
+is not restricted to, the provisions of money or other property; or
+(b) arranges, manages or assists in managing, or addressing a meeting which he knows
+is:
+(i) to support a proscribed organization;
+(ii) to further the activities of a proscribed organization; or
+(iii) to be addressed by a person who belongs or professes to belong to a
+proscribed organization.
+(4) A person commits an offence if he addresses a meeting, or delivers a sermon to a religious
+gathering, by any means whether verbal, written, electronic, digital or otherwise, and the purpose of his
+address or sermon, is to encourage support for a proscribed organization or to further its activities.
+(5) A person commits an offence if he solicits, collects or raises 1
+[money or other property] for a
+proscribed organization.
+(6) A person guilty of an offence under subsections (3), (4) and (5) shall be liable on conviction to
+a term of imprisonment not less than one year and not more than five years and a fine.
+11G. Uniform.___(1) A person commits an offence if he—
+(a) wears, carries or displays any article, symbol, or any flag or banner connected with
+or associated with any proscribed organization; or
+(b) carries, wears or displays any uniform, item of clothing or dress in such a way or
+in such circumstances as to arouse reasonable suspicion that he is a member or
+supporter of a proscribed organization.
+1Subs. by Act No. XIII of 2013, s. 6.
+Page 23 of 57
+1
+[(2) A person who commits an offence under sub-section (1) shall be liable to imprisonment for
+a term which may extend to five years, or with fine, or with both.]
+11H. Fund raising.
+___ (1) A person commits on offence if he:
+(a) invites another to provide money or other property, and
+(b) intends that it should be used, or has reasonable cause to suspect that it may be
+used, for the purpose of terrorism 2
+[or by a terrorist or organization concerned in
+terrorism].
+(2) A person commits an offence if:
+(a) he receives money or other property, and
+(b) intends that it should be used, or has reasonable cause to suspect that it may be used,
+for the purposes of terrorism 2
+[or by a terrorist or organization concerned in
+terrorism].
+(3) A person commits an offence if he:
+(a) provides money or other property; and
+(b) knows or has reasonable cause to suspect that it will or may be used for the purpose
+of terrorism 2
+[or by a terrorist or organization concerned in terrorism].
+(4) In this section a reference to the provision of money or other property is a reference to its
+being given, lent or otherwise made available, whether or not for consideration.
+11-I. Use and possession.__ A person commits an offence if__
+(1) he uses money or other property for the purposes of terrorism; or
+(2) he__
+(a) possesses money or other property; and
+(b) intends that it should be used, or has reasonable cause to suspect that it may be
+used, for the purposes of terrorism.
+1Subs. by Act No. II of 2005, s. 4.
+2
+Ins. by Act No. XIII of 2013, s. 7.
+Page 24 of 57
+11J. Funding Arrangements.
+___ 1
+[(1)] A person commits an offence if he__
+(a) enters into or becomes concerned in an arrangement as a result of which money or
+other property is made available or is to be made available to another, and
+(b) has reasonable cause to suspect that it will or may be used for the purposes of
+terrorism.
+1
+[(2) Any person in Pakistan or a Pakistani national outside Pakistan shall commit an offence under
+this Act, if he knowingly or willfully makes money or other property or services available, directly or
+indirectly, wholly or jointly, for the benefit of a proscribed organization or proscribed person.]
+2
+[(3) A person commits an offence if he knowingly or willfully pays for or provides money or other
+property or facilitates in any manner the travel of a person anywhere for the purpose of perpetrating,
+participating in, assisting or preparing for a terrorist act or for the purpose of providing or receiving
+training for terrorist related activities.
+(4) The provisions of sub-section (2) shall also apply to__
+(a) organizations owned or controlled, directly or indirectly, by proscribed
+organizations or proscribed persons; and
+(b) persons or organizations acting on behalf of, or at the direction of, proscribed
+organizations or proscribed persons.]
+11K. Money-laundering.___ (1) A person commits an offence if he enters into or becomes
+concerned in any arrangement which facilitates the retention or control, by or on behalf of another person,
+of terrorist property:
+(a) by concealment,
+(b) by removal from the jurisdiction,
+(c) by transfer to nominees, or
+(d) in any other way.
+(2) It is a defense for a person charged with an offence under subsection (1) to prove that he did
+not know and had no reasonable cause to suspect that the arrangement related to terrorist property.
+1Re-numbered and added by Act No. VII of 2014, s. 9.
+2Added by Act No. XXIII of 2020, s. 4.
+Page 25 of 57
+11L. Disclosure of information._
+(1) Where a person__
+(a) believes or suspects that another person has committed an offence under this Act;
+and
+(b) bases his belief or suspicion on information which comes to his attention in the
+course of a trade, profession, business or employment, he commits an offence if he
+does not disclose to a police officer as soon as is reasonably practicable his belief
+or suspicion, and the information on which it is based.
+(2) It is a defense for a person charged with an offence under sub-section (1) of this section to
+prove that he had a reasonable excuse for not making the disclosure.
+Provided that this subsection does not require disclosure by a professional legal advisor of any
+information which he obtains in privileged circumstances.
+(3) A person may disclose to a police officer:
+(a) a suspicion or belief that any money or other property is terrorist property or is
+derived from terrorist property; or
+(b) any matter on which the suspicion is based.
+(4) Subsection (3) shall have effect notwithstanding any restriction on the disclosure of
+information imposed by any law for the time being in force.
+11M. Cooperation with the Police.__ (1) A person does not commit an offence under sections
+11H to 11K, if he is acting with the express consent of a police officer not below the rank of a Deputy
+Superintendent; and
+(2) Subject to subsections (3) and (4) under this section, a person does not commit an offence
+under sections 11H to 11K by involvement in a transaction or arrangement relating to money or other
+property if he discloses to a police officer:
+(a) his suspicion or belief that the money or other property is terrorist property, and
+(b) the information on which his suspicion or belief is based.
+(3) Subsection (2) under this section applies only where a person makes a disclosure__
+(a) after he becomes concerned in the transaction concerned;
+(b) on his own initiative; and
+(c) as soon as is reasonably practicable.
+Page 26 of 57
+(4) Subsection (2) under this section does not apply to a person if__
+(a) a police officer forbids him to continue his involvement in the transaction or
+arrangement to which the disclosure relates, and
+(b) he continues his involvement.
+(5) It is a defense for a person charged with an offence under section 11H to 11J to prove that:
+(a) he intended to make a disclosure; and
+(b) there is reasonable excuse for his failure to do so.
+11N. Punishment under sections 11H to 11K. 1
+[(1)] Any person who commits an offence
+under sections 11H to 11K, shall be punishable on conviction with imprisonment for a term not less than
+2
+[five years] and not exceeding 2
+[ten years] and with fine 1
+[not exceeding twenty-five million rupees].
+1
+[(2) If a legal person commits an offence under sections 11H to 11K such person shall be liable
+on conviction to a fine not exceeding fifty million rupees.
+(3) Every director, officer or employee of such legal person found guilty shall be punishable on
+conviction with imprisonment for a term not less than five years and not exceeding ten years and with fine
+not exceeding twenty-five million rupees:
+Provided that the punishment of the director, officer or employee shall be effective and in due
+proportion to his role.]
+3
+[11O. Seizure, freeze and detention.__ (1) On proscription made under section 11B or, as the
+case may be, section 11EE,__
+(a) the money or other property owned or controlled, wholly or 1
+[jointly], directly or
+indirectly, by a proscribed organization or proscribed person, shall be frozen or
+seized, as the case may be 1
+[, without any prior notice and without delay];
+(b) the money or other property derived or generated from any property referred in
+clause (a) shall be frozen or seized, as the case may be 1
+[, without any prior notice
+and without delay];
+(c) no person shall use, transfer, convert, dispose of or remove such money or other
+property with effect from proscription; 1
+[*]
+1Numbered, ins., added, subs. and omitted by Act No. XXIII of 2020, ss. 5-6.
+2Subs. by Act No. II of 2005, s. 5.
+3Subs. by Act No. VII of 2014, s. 10.
+Page 27 of 57
+1
+[ (d) within forty-eight hours of any freeze or seizure, the person carrying out the
+freeze or seizure or any action under clause (c) shall set out the steps taken to ensure
+that no money, property or services are made available, directly or indirectly,
+wholly or jointly for the benefit of the proscribed organization or person and shall
+submit a report containing details of the property and the persons affected by the
+freeze or seizure to such office of the Federal Government as may be notified in the
+official Gazette; and]
+1
+[(e) the money or other property of any person acting on behalf of, or at the direction
+of, proscribed persons or organizations shall be frozen or seized, as the case may
+be, without any prior notice and without delay;]
+2
+[(2) Any natural person not connected with a legal person or body corporate, who violates any
+provision of sub-section (1) shall be liable, on conviction to imprisonment for a term not exceeding ten
+years or with fine not exceeding twenty-five million rupees or with both.]
+(3) If a legal person violates any provision of sub-section (1), such person shall be liable 2
+[on
+conviction to fine not exceeding fifty million rupees and every director, officer or employee of such person
+found guilty of the violation shall be liable on conviction to imprisonment for a term not exceeding ten
+years or with fine not exceeding twenty five million rupees or with both].
+2
+[(3A) Notwithstanding anything contained in sub-section (2), if any public servant is found
+negligent in complying with the provision of sub-section (1) such public servant shall be proceeded against
+under respective service rules for administrative action.]
+(4) On an application made by any affected person, the Federal Government shall inquire into the
+ownership and control of any money or other property that has been frozen or seized and, if it is satisfied
+that the money or other property has 1
+[wrongly] been frozen or seized, the same shall be ordered to be
+released immediately.
+(5) No prosecution, suit or other proceedings shall lie against the government or any other person
+complying or purporting to comply with sub-section (1) for anything done in good faith to effect freeze
+or seizure.]
+3
+[11OO. Access to services, money or other property.__ (1) The Federal Government may permit
+a person to make available to a proscribed organization or proscribed person such services, money or other
+property as may be prescribed, including such money as may be 1
+[basic expenses, including payments for
+foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public
+utility charges, or exclusively for payment of reasonable professional fees and reimbursement of incurred
+expenses associated with the provision of legal services, or fees or service charges for routine holding or
+maintenance of frozen funds or other financial assets or economic resources or such money as may be
+required for meeting extraordinary expenses,] and such person shall not be liable for any offence under
+this Act on account of provision of the prescribed services, money or other property.
+1Subs. and added by Act No. XXIII of 2020, ss. 6 and 8.
+2Subs. and ins. by Act No. XX of 2020, s. 3.
+3
+Ins. by Act No. VII of 2014, s. 11.
+Page 28 of 57
+(2) On an application made by a proscribed organization or proscribed person, the Federal
+Government may authorize such organization or person to access such money or other property or avail
+such services as may be prescribed.]
+1
+[11OOO. Violation of UN Security Council Resolution. — (1) A person is guilty of an offence
+if he, in any way whatsoever, refuses or fails to comply with the orders of the Federal Government under
+section 2 of the United Nations (Security Council) Act, 1948 (XIV of 1948).
+(2) A person guilty of an offence under sub-section (1), shall be liable on conviction to
+imprisonment for a term not exceeding ten years or with fine not exceeding twentyfive million rupees or
+with both.
+(3) If a legal person or body corporate, commits an offence under sub-section (1), such person or
+body corporate shall be liable on conviction to fine not exceeding fifty million rupees and every director,
+officer or employee of such legal person or body corporate found guilty of the violation shall be liable on
+conviction to imprisonment for a term not exceeding ten years or with fine not exceeding twenty five
+million rupees or with both.
+(4) Notwithstanding anything contained in sub-section (2), of section 11OOO, if any public
+servant is found negligent in complying with the provisions of sub-section (1), such public servant shall
+be proceeded again under respective service rules for administrative action.]
+2
+[11P. Application by investigating officer to Court.__ (1) An investigating officer may apply to
+a court for an order under this section for attachment of a terrorist property.
+(2) An order under this section, shall__
+(a) provide for attachment of the terrorist property for a period specified in the order
+or pending completion of the investigation; and
+(b) require notice to be given to the person from whom such property was attached
+and to any other person who is affected by and specified in the order.
+(3) Any cash attached under this section shall be held in a profit and loss account and the profit
+and loss so earned shall be added to it on its release or forfeiture.]
+11Q. Forfeiture.__ (1) The Court by or before which a person is convicted of an offence under any
+of the sections 11H to 11 M may make forfeiture order in accordance with the provision of this section.
+(2) Where a person is convicted of an offence under section 11H (1) or (2) or section 11I, the Court
+may order the forfeiture of any money or other property:
+1
+Ins. by Act No. XX of 2020, s. 4.
+2Subs. by Act No. VII of 2014, s. 12.
+Page 29 of 57
+(a) which, at the time of the offence, he had in his possession or under his control; and
+(b) which at that time, he intended should be used, or had reasonable cause to suspect
+might be used, for the purposes of terrorism.
+(3) Where a person has been convicted under Section 11H (3), the court may order the forfeiture
+of any money or other property:
+(a) which, at the time of the offence, he had in his possession or under this control,
+and
+(b) which, at the time, he knew or had reasonable cause to suspect would or might be
+used for the purposes of terrorism.
+(4) Where a person is convicted of an offence under section 11J, the court may order the forfeiture
+of the money or other property:
+(a) to which the arrangement in question related; and
+(b) which, at the time of the offence, he knew or had reasonable cause to suspect
+would or might be used for the purposes of terrorism.
+(5) Where a person is convicted of an offence under section 11K, the Court may order the
+forfeiture of the money or other property to which the arrangement in question related.
+(6) Where a person is convicted of an offence under any of the sections 11H to 11K, the Court
+may order forfeiture of any money or other property which wholly or partly, and directly or indirectly, is
+received by any person as a payment or other reward in connection with the commission of the offence
+1
+[:]
+1
+[Provided that in case of a jointly owned property, the shares of a person in the said property who
+is not convicted, shall not be subject to such order of forfeiture.]
+1
+[(6A) Where the court is satisfied that property subject to forfeiture under this section cannot be
+forfeited, it may order the forfeiture of any other property of the accused of an equivalent value to the
+property subject to forfeiture which stands identified or located in another jurisdiction.]
+2
+[(7) A person other than an accused, claiming the ownership or interest in any property or assets,
+suspected to be terrorist property, may within a period of fifteen days of freezing of account or of taking
+into possession or control of such property or assets, as the case may be or within such extended period as
+the court may, for reasons to be recorded, allow file his claim before the court. The court after giving
+notice to the prosecution and hearing the parties, shall decide the claim.]
+1Subs., added and ins. by Act No. XXIII of 2020, ss. 7 and 9.
+2Added by Act No. XX of 2013, s. 8.
+Page 30 of 57
+1
+[11R. Evidentiary standard for forfeiture.— (1) The court may pass an order for forfeiture
+under section 11Q upon conviction and only if satisfied on reasonable grounds that the money or other
+property is a terrorist property and before so doing must give an opportunity to be heard to any person,__
+(a) who is not a party to the proceedings; and
+(b) who claims to be the owner of or otherwise interested in any of the money or
+other property which can be forfeited under this section.
+(2) An order may be made under section 11Q, whether or not proceedings are brought against all
+the persons for an offence with which the money or other property is connected.]
+11S. Appeal against forfeiture order 2
+[***].__ (1) Any party to the proceedings in which a
+forfeiture order is made under 2
+[section 11Q] 1
+[***] may appeal to the High Court against such an order.
+(2) An appeal must be brought before the end of the period of thirty days beginning with the date
+on which the forfeiture order was made.
+11T. Deposit of 2
+[money or other property] in a fund.__ (1) Any 2
+[money or other property] to
+which a forfeiture order under sections 11R and 11S applies, alongwith 2
+[any addition, return,] profit and
+loss accrued, shall be deposited into a special fund to be notified by the Federal Government__
+(a) after the expiry of the limitation period within which an appeal against the
+forfeiture order may be brought under section 11S (2), or
+(b) where an appeal brought under section 11S has been determined and disposed of.
+(2) Any fund constituted by the Federal Government under sub-section (1) may also be used to
+compensate victims of acts of terrorism or in the case of deceased victims, their dependents.
+2
+[(3) The Federal Government may, by rules made under this Act, prescribe the manner of
+administration of the fund and management or disposal of the money or property forfeited under this Act.]
+1
+[11U. De-proscription.__ (1) The Federal Government may, by notification in the official
+Gazette, at any time remove any organization or person from the First Schedule or Fourth Schedule, as
+the case may be, on the basis that no reasonable ground for proscription exists.
+(2) After three years of the disposal of appeal, if any, or where no appeal was filed, from the date
+of the order of proscription, or form the date of any refusal of an application of de-proscription, —
+(a) the Federal Government shall conduct review of the proscriptions to determine
+whether any proscription may be cancelled on the basis provided for under subsection (1); and
+1Subs. and omitted by Act No. VII of 2014, ss. 13-15.
+2Omitted, ins., subs. and added by Act No. XIII of 2013, ss. 11 and 12.
+Page 31 of 57
+(b) until a proscription is cancelled, any money or other property frozen or seized on
+account of the proscription shall remain frozen or seized, as the case may be.
+(3) On cancellation of the proscription under this Act, any money or other property that has been
+frozen or seized shall be released in a timely manner.]
+11V. Directing terrorist activities.
+___ (1) A person commits an offence if he:
+(a) directs, at any level, whilst resident in Pakistan or abroad, activities of an
+organization concerned with the preparation, instigation or commission of acts of
+terrorism; or
+(b) directs, from within the country or abroad, activities connected with the
+commission, preparation or instigation of an act of terrorism.
+(2) A person guilty of an offence under sub-section (1) shall be liable on conviction to
+1
+[imprisonment for life] and to forfeiture or confiscation of his assets within or outside Pakistan.
+11W. Printing, publishing or disseminating any material to incite hatred or giving projection
+to any person convicted for a terrorist act or any proscribed organization or an organization placed
+under observation or anyone concerned in terrorism.__ (1) A person commits an offence if he prints,
+publishes or disseminates any material, whether by audio or videocassettes 2
+[or any form of data, storage
+devise, FM radio station or by any visible sign] or by written, photographic, electronic, digital, wallchalking or any other method 2
+[or means of communication] which 2
+[glorifies terrorists or terrorist
+activities or] incites religious, sectarian or ethnic hatred or gives projection to any person convicted for a
+terrorist act, or any person or organization concerned in terrorism or proscribed organization or an
+organization placed under observation:
+Provided that a factual newsreport, made in good faith,shall not be construed to mean “projection”
+for the purposes of this section.
+1
+[(2) Any person quilty of an offence under sub-section (1) shall be punishable on conviction with
+imprisonment which may extend to five years and with fine.]
+3
+[11WW, Lynching.__ (1) Whenever any individuals, an organized group or a mob by taking the
+law in own hands inflict punishment on a person accused or suspected of a crime by causing him a hurt or
+his death, every such individual, a member of such group of a mob is said to commit lynching.
+(2) Whoever, commits lynching under sub-section (1) shall be punished with imprisonment for a
+term which may extend to three years or with fine or with both in addition to any other punishment to
+which he may be liable under any other law for the time being in force.]
+1Subs. by Act No. II of 2005, ss. 6 and 7.
+2
+Ins. by Act No. XX of 2013, s. 9.
+3
+Ins. by the Criminal Laws (Amendment) Act, 2017 (Act No. IV of 2017), s. 6.
+Page 32 of 57
+11X. Responsibility for creating civil commotion.__ (1) A person commits an offence if he
+makes any call for action or shut-down, imposed through the use of threats or force resulting in damage
+or destruction of property or injury to person, to intimidate citizens and prevent them from carrying out
+their lawful trade or business activity.
+(2) A person guilty of an offence under subsection (1) shall on conviction be punishable with
+imprisonment for a term not less than 1
+[five years] and not more than 1
+[ten years] and shall pay
+compensation as may be determined by the court, from the funds of the organization to which he belongs
+or from his own personal resources or assets for the hurt or damage or destruction caused as a result of the
+commission of the offence under sub-section (1).
+(3) A person commits an offence if he addresses a meeting or gathering or delivers a sermon to a
+religious gathering by any means whether verbal, written, electronic, digital or otherwise to incite
+religious, sectarian or ethnic hatred and contempt, and shall, on conviction, be punishable with
+imprisonment not less than 1
+[five years] and not more than 1
+[ten years] or fine or with both.]
+12. Jurisdiction of 2
+[Anti-terrorism Court]. — (1) Notwithstanding anything contained in the
+Code or in any other law, a scheduled offence committed in an area in a Province 3
+[or the Islamabad
+Capital Territory] shall be triable only by the 2
+[Anti-terrorism Court] exercising territorial jurisdiction in
+relation to such area.
+(2) Notwithstanding anything contained in sub-section (1), if, in respect of a case involving a
+scheduled offence committed in any area, the Government, having regard to the facts and circumstances
+of the case, is satisfied that in order to ensure a fair trial, or for the protection and safety of witnesses,
+that such offence should be tried by 2
+[an Anti-terrorism Court] established in relation to any other area,
+the Government may make a declaration to that effect.
+Explanation.
+__ Where 2
+[an Anti-terrorism Court] is established in relation to two or more areas,
+such 2
+[Anti-terrorism Court] shall be deemed, for the purpose of this sub-section, to have been established
+in relation to each of such areas.
+(3) Where a declaration is made in respect of an offence committed in an area in a Province 3
+[or
+the Islamabad Capital Territory], any prosecution in respect of such offence shall be instituted only in the
+2
+[Anti-terrorism Court] established in relation to such area, and, if any prosecution in respect of such
+offence is pending immediately before such declaration in any other court, the same shall stand transferred
+to such 2
+[Anti-terrorism Court] and such 2
+[Anti-terrorism Court] shall proceed with such case from the
+stage at which it was pending at the time without the necessity of recalling any witnesses.
+1Subs. by Act No. II of 2005, s. 8.
+2Subs. by Ordinance No. XIII of 1999, s. 2.
+3
+Ins. by Act No. XX of 2013, s. 10.
+Page 33 of 57
+1
+[13. Establishment of Anti-terrorism Court.___(1) For the purpose of providing for the speedy
+trial of the cases 2
+[under this Act] and of scheduled offences, the Federal Government, or if so directed by
+the Government, the Provincial Government may establish by notification one or more Anti-terrorism
+Courts in relation to 3
+[each territorial area as specified by the High Court concerned].
+(2) Where more Anti-terrorism courtsthan one have been established in any area, the Government
+in consultation with the Chief Justice of the High Court shall 4
+[designate a judge of any such Court to be
+an administrative judge] and all cases triable under this Act pertaining to the said area shall be filed before
+the 4
+[said court and such judge may either try the case himself] or, assign any case, or cases, for trial to
+any other anti-terrorism court at any time prior to the framing of the charge. The cases shall be assigned
+to a court one case at a time”:
+Provided that in order to ensure that the time of the court is not wasted if for some reason a given
+case cannot proceed more than one case can be assigned to it at any time or from time to time.
+(3) In respect of a case assigned to a court under sub-section (2), all orders made or proceedings
+taken before the assignment shall be deemed to have been made or taken by the court to which the case
+has been assigned.]
+5
+[(4) Notwithstanding anything contained in sub-section (2) and sub-section (3), the Federal
+Government, or if so directed by the Government, the Provincial Government shall in addition tothe
+existing 3
+[Anti-terrorism Courts] or such other 3
+[Anti-terrorism courts] as may be established in the area,
+establish one such additional 3
+[Anti- terrorism Court] under this Act at the principal seat of 3
+[each High
+Court] and appoint a Judge of such High Court as a Judge of 3
+[Anti-terrorism Court] in consultation with
+the Chief Justice of the High Court concerned, and where a Judge of a High Court is appointed as a Judge
+of any area under this Act he shall be the administrative Judge for that area and such administrative Judge
+may, in addition to the powers exercisable under this Act, either suo moto or on the application of any
+party, at any stage of the proceedings whether before or after the framing of charge, for sufficient cause
+including as mentioned in sub-section (1) of section 28, transfer, withdraw orrecall any case pending
+before any other 3
+[Anti-terrorism Court] in that area and may either try the case himself or make it over
+for trial to any other 3
+[Anti-terrorism Court] in that area.
+(5) The 3
+[Anti-terrorism Court] to which a case is transferred or recalled for trial under subsection (4), shall proceed with the case from the stage at which it was pending immediately before such
+transfer or recall and it shall not be bound to recall or rehear any witness who has given evidence and may
+act on the evidence already recorded.]
+1Subs. by Ordinance No. XIII of 1999, s.10
+2Subs. by Act No. XX of 2013, s. 11.
+3Subs. by Ordinance No. VI of 2002, s. 2.
+4 Subs. by Ordinance No. CXXXIV of 2002, s. 3.
+5Added by Ordinance No. XX of 1999, s. 2.
+Page 34 of 57
+1
+[14. Composition and appointment of presiding officers of Anti-terrorism Courts.__ (1) An
+Anti-terrorism Court shall consist of a Judge, being a person who__
+(i) is a Judge of a High Court, or is or has been a Sessions Judge or an Additional
+Sessions Judge; or
+(ii) is a Judicial Magistrate First Class vested with powers under section 30 of the
+Code; or
+(iii) has for a period of not less than ten years been an advocate of a High Court.
+(2) The Federal Government or the Provincial Government, if directed by the Federal
+Government to establish a court under this Act, shall, after consultation with the Chief Justice of the High
+Court, appoint a Judge of each court.
+(3) A Judge shall hold office for a period of two and a-half years but may be appointed for such
+further term or part of term as the Government appointing the Judge may determine.
+(4) A Judge may be removed from his office prior to the completion of the period for which he
+has been appointed after consultation with the Chief Justice of the High Court.
+(5) In case a Judge is on leave, or for any other reason temporarily unable to perform his duties,
+the Government making appointment of such Judge may, after consultation with the Chief Justice of the
+High Court, authorize the Sessions Judge, having jurisdiction at the principal seat of the Anti-terrorism
+Court, to conduct proceedings of urgent nature so long as such judge is unable to perform his duties.
+(6) The Anti-terrorism Courts existing immediately before the commencement of the Antiterrorism (Second Amendment) Ordinance, 2002, and the judges appointed to such Courts, shall, subject
+to the provisions of this Act, as amended, continue to function and try offences under this Act.]
+15. Place of sitting.__ (1) Subject to sub-sections (2) and (3), 2
+[an Anti-terrorism Court] shall
+ordinarily sit at such place or places 3
+[including Cantonment area or jail premises] as the Government
+may, by order, specify in that behalf.
+(2) The Government may direct that for the trial of a particular case the Court shall sit at such
+place including the place of occurrence of an offence as it may specify.
+1Subs. by Ordinance No. CXXXIV of 2002, s. 3.
+2Subs. by Ordinance No. XIII of 1999, s. 2.
+3
+Ins. by Ordinance No. VI of 2002, s. 4.
+Page 35 of 57
+(3) Except in a case where a place of sitting has been specified under sub-section (2),
+1
+[an Antiterrorism Court] may, if it considers it expedient or desirable so to do either suo moto or on the application
+of the public prosecutor sit, for holding the trial of a case at any place including a mosque other than the
+ordinary place of its sitting.
+16. Oath by 1
+[Anti-terrorism Courts].__ A 2
+[Judge] of 1
+[an Anti-terrorism Court] shall, at the
+commencement of a proceeding under this Act, make oath, in the case of a Muslim, on the Holy Quran,
+to the effect that he shall decide the case honestly, faithfully and considering himself accountable to
+Almighty Allah, and in case of a non-Muslim in accordance with 1
+[the Constitution, law and his
+conscience].
+17. Powers of 1
+[Anti-terrorism Courts] with respect to other offences.__ When trying any
+scheduled offence, 1
+[an Anti-terrorism Court] may also try any offence other than the scheduled offence
+with which the accused may, under the Code, be charged at the same trial.
+18. Public Prosecutors.__ 3
+[(1) The 4
+[*] Government shall appoint in relation to each Antiterrorism court or a High Court and Supreme Court of Pakistan a proficient, diligent and professionally
+competent Public Prosecutors or Law Officers and may also appoint one or more Additional Prosecutors
+or Law officers:
+Provided that the Government may also appoint, for any case or class of cases, a Special
+Prosecutor.]
+(2) Every person appointed as a Public Prosecutor or an Additional Public Prosecutor or a Special
+Public Prosecutor shall be deemed to be a Public Prosecutor within the meaning of section 492 of the
+Code, and the provisions of the Code shall have effect accordingly.
+19. Procedure and Powers of 1
+[Anti-terrorism Court].__ 4
+[(1) An investigating officer under
+this Act shall be an officer or Police Officer not below the rank of Inspector or equivalent or, if the
+Government deems necessary Joint Investigation Team’ to be constituted by the Government shall be
+headed by an Investigating Officer of Police not below the rank of Superintendent of Police (BS-18) and
+other officers of JIT may include equivalent rank from Intelligence Agencies, Armed Forces and Civil
+Armed Forces. The JIT shall comprise five members and for the meeting purposes the quorum shall consist
+of three members. 5
+[The Joint Investigation Team may co-opt any additional person from any Federal or
+Provincial institution or department as it deems appropriate for investigation.]
+1Subs. by Ordinance No. XIII of 1999, s. 12.
+2Subs. by Ordinance No. CXXXIV of 2002, s. 4.
+3Subs. by Ordinance No. VI of 2002, s. 6.
+4Omitted and subs. by Act No. VI of 2014, ss. 4 and 5.
+5
+Ins. by Act No. XXIII of 2020, s. 10.
+Page 36 of 57
+The investigating officer to the JIT, as the case may be, shall complete the investigation in respect
+of cases triable by the court within thirty working days. The report under section 173 of the Code shall be
+signed and forwarded by the investigating officer of police 1
+[through public prosecutor] to the court:
+Provided that where the provisions of sections 4 and 5 have been invoked, the investigation shall
+be conducted by the JIT comprising members of armed forces or civil armed forces, as the case may be,
+intelligence agencies and other law enforcement agencies including an investigating officer of police not
+below the rank of Inspector who shall sign the report under section 173 of the Code and forward it to the
+Court:
+Provided further that, where investigation is not completed within a period of thirty days from the
+date of recording of the first information report under section 154 of the Code, the investigating officer or
+the JIT shall, within three days after expiration of such period, forward to the Court through the Public
+Prosecutor, an interim report under section 173 of the Code, stating therein the result of investigation made
+until then and the Court shall commence the trial on the basis of such interim report,unless, for reasons to
+be recorded, the Court decides that the trial may not so commence. The interim report shall be signed by
+the investigating officer of police;]
+2
+[(1A) Notwithstanding anything contained in any other law for the time being in force, the Federal
+Government may, in respect of any case registered by or under investigation with, the Police or any other
+investigation agency or authority, by order in writing, entrust inquiry or such investigation to such agency
+or authority as it may deem fit and thereupon the Police, or any other investigation agency or the authority
+shall transfer the record of the case to such agency or authority.]
+3
+[(1B) Where any person has been arrested by the armed forces or civil armed forces under section
+5, he shall be handed over to the investigating officer of the police station designated for the purpose by
+the Provincial Government in each District.]
+(2) Any default on the part of an officer-in-charge of a police station, an investigating officer or
+any other person required by law to perform any functions in connection with the investigation, that results
+in, or has the effect of, delaying investigation or submission of the report under sub-section (1), shall be
+deemed to be a wilful disobedience of the orders of the 4
+[Anti-terrorism Court] and the person committing
+the default shall be liable to be punished for contempt of Court.
+(3) The 4
+[Anti-terrorism Court] may directly take cognizance of a case triable by such court
+without the case being sent to it under section 190 of the Code.
+(4) 5
+[* * * * * * *]
+(5) Where, in a case triable by 2
+[an Anti-terrorism Court] an accused has been released from
+1Subs. by Act No. XXIII of 2020, s. 10.
+2
+Ins. by Act No. XX of 2013, s. 12.
+3
+Ins. by Act No. VI of 2014, s. 5.
+4Subs. and ins. by Ordinance No. XIII of 1999, s. 2.
+5Omitted by Ordinance No. XXXIX of 2001, s. 9.
+Page 37 of 57
+police custody 1
+[, or custody of any other investigating agency joined in an investigation,], under section
+169 of the Code, or has been remanded to judicial custody, the 2
+[Anti-terrorism Court] may, on good
+grounds being shown by a Public Prosecutor or a Law Officer of the Government, for reasons to be recorded
+in writing, make an order for placing him in police custody 1
+[or custody of any other investigating agency
+joined in investigation] for the purpose of further investigation in the case.
+(6) 2
+[An Anti-terrorism Court] shall be deemed to be a Magistrate for purpose of 3
+[sub-section]
+(5).
+4
+[(7) The Court shall, on taking cognizance of a case, proceed with the trial from day-to-day and
+shall decide the case within seven days, failing which the matter shall be brought to the notice of the Chief
+Justice of the High Court concerned for appropriate directions, keeping in view the facts and circumstances
+of the case.]
+5
+[(8) An anti-terrorism Court shall not give more than two 4
+[adjournments during the trial of the
+case and that also imposition of exemplary costs]. If the defence counsel does not appear after two
+consecutive adjournments, the Court may appoint a State Counsel with at least seven years standing in
+criminal matters for the defence of the accused from the panel of advocates maintained by the Court for
+the purpose in consultation with the Government and shall proceed with the trial of the case.]
+5
+[(8a) Non-compliance with the provisions of sub-section 4
+[(7) or] (8) may render the presiding
+officer of the Court liable to disciplinary action by the concerned High Court.
+(8b) Notwithstanding anything contained in section 7 of the Explosive Substances Act, 1908 (VI
+of 1908), or any other law for the time being in force, if the consent or sanction of the appropriate authority,
+where required, is not received within thirty days of the submission of challan in the Court, the same shall
+be deemed to have been given or accorded and the Court shall proceed with the trial of the case.]
+(9) 2
+[An Anti-terrorism Court] shall not merely by reason of a change in its composition or transfer
+of a case under sub-section (3) of section 12, be bound to recall and re-hear any witness who has given
+evidence and may act on the evidence already recorded.
+2
+[(10) Any accused person may be tried in his absence if the Anti-terrorism Court, after such
+inquiry as it deems fit, is satisfied that such absence is deliberate and brought about with a view to
+impeding the course of justice:
+1
+Ins. by Ordinance No. VI of 2002, s. 7.
+2Subs. by Ordinance No. XIII of 1999, ss. 2 and 3.
+3Subs. by Ordinance No. XXXIX of 2001, s.9.
+4Subs. and ins. by Act No. VI of 2014, s. 5.
+5Subs. and ins. by Act No. II of 2005, s. 9.
+Page 38 of 57
+Provided that the accused person shall not be tried under this sub-section unless a proclamation has
+been published in respect of him in at least 1
+[in one daily newspaper including Sindhi language]
+requiring him to appear at a specified place within seven days failing which action may also be taken
+against him under section 88 of the Code:
+Provided further that the Court shall proceed with the trial after taking the necessary steps to
+appoint an advocate at the expense of the State to defend the accused person who is not before the Court.
+Explanation.
+__ An accused who is tried in his absence under this sub-section shall be deemed
+not to have admitted the commission of any offence for which he has been charged.]
+(11) The advocate appointed under the second proviso to sub-section (10) shall be a person
+selected by the 2
+[Anti-terrorism Court] for the purpose and he shall be engaged at the expense of the
+Government.
+2
+[(11A). Nothing contained in sub-section (10) or sub-section (11) shall be construed to deny the
+accused the right to consult or be defended by a legal practitioner of his own choice.]
+(12) If, within sixty days from the date of his conviction, any person tried under sub-section (10)
+appears voluntarily, or is apprehended and brought before 2
+[Anti-terrorism Court], and proves to its
+satisfaction that he did not abscond or conceal himself for the purpose of avoiding the proceeding against
+him, 2
+[the Anti-terrorism Court] shall set aside his conviction and proceed to try him in accordance with
+law for the offence which he is charged:
+Provided that 2
+[the Anti-terrorism Court] may exercise its powers under this sub-section in a case
+in which a person as aforesaid appears before it after the expiration of the said period and satisfies it that
+he could not appear within the said period by reason of circumstances beyond his control.
+(13) 3
+[* * * * * * *]
+(14) Subject to the other provisions of this Act, 2
+[an Anti-terrorism Court] shall, for the purpose of
+trial of any offence, have all the powers of a Court of Sessions and shall try such offence as if it were a
+Court of Session as far as may be in accordance with the procedure prescribed in the Code for trial before
+a Court of Sessions.
+1
+[19A. Mode of making searches and arrest.__ The provisions of the Code, except that of section
+103, shall mutatis mutandis, apply to all searches and arrest by police officer and an officer of equivalent
+rank of the law enforcement agencies made under this Act.]
+4
+[19B. Pre-trial scrutiny.
+__ Before commencement of the trial, the prosecutor shall scrutinize the
+case file to ensure that all pre-trial formalities have been completed so that the actual trial proceeds
+uninterrupted from day-to-day.]
+1Subs. and ins. by Act No. XX of 2013, ss. 12 and 13.
+2Subs. by Ordinance No. XIII of 1999, ss. 2 and 13.
+3Omitted by Ordinance No. XXXIX of 2001, s. 9.
+4
+Ins. by Act No. VI of 2014, s. 6.
+Page 39 of 57
+1
+[19C. Application of investigation techniques.
+__ (1) The investigating officer may with the
+permission of Court, within sixty days of such permission, use techniques including undercover operation,
+intercepting communications, accessing computer system and controlled delivery for investigation of
+financing of terrorism under the law in force. The aforementioned period of sixty days may be extended
+upto further period of sixty days by the Court on a request made to it in writing. The Court may grant
+extension, if it is satisfied, on the basis of situation or reasons given in the written request. The provisions
+of this sub-section shall be in addition to and not in derogation of any other law for the time being in force.
+(2) The Federal Government may make rules to regulate the procedure and execution of orders for
+the purpose of this section.]
+20. 2
+[* * * * * * *]
+2
+[21. Protection to Judges 3
+[,]
+4
+[*] Counsel, Public Prosecutor, witnesses and persons
+concerned with court proceedings.__ (1) The Court may, subject to the availability of resources, make
+such necessary orders or take such measures, as it deems fit, within available resources, for the protection
+of a witness, judge 3
+[,]
+4
+[*] public prosecutor, counsel and other persons concerned in court proceedings
+for an offence under this Act, which may also include the following measures—
+(a) proceedings may be held in camera, or under restricted entry of members of the
+public, where necessary for the protection of the judge 3
+[,]
+4
+[*] witnesses or a
+victim’s family members or to prevent persons from crowding or storming the court
+to intimidate the judge, 4
+[*] or to create a threatening atmosphere;
+(b) The names of judges 3
+[,]
+4
+[*] counsel, public prosecutor, witnesses and persons
+concerned with court proceedings shall not be published; and
+(c) During any inquiry, investigation or court proceedings, wherever the matter of the
+identification of the accused arises, adequate protection shall be provided to a
+witness identifying any accused, in order to protect the identity of the witness from
+the accused.
+(2) For purposes of protection of the judges 3
+[,]
+4
+[*] accused, witnesses, prosecutors and defence
+counsel and anyone concerned with the court proceedings, the Government may adoptsuch other measures
+as may be appropriate or may be prescribed 3
+[and the Armed Forces shall also provide comprehensive
+protection and security to the judges 3
+[,]
+4
+[*] accused, witnesses, prosecutors, investigators, defence
+counsel and all those concerned in the court proceedings].
+1
+Ins. by Act No. XXXII of 2020, s. 2.
+2Omitted and subs. by Ordinance No. XXXIX of 2001, ss. 10-11.
+3
+Ins. and added by Ordinance No. VI of 2002, s. 8.
+4Omitted by Ordinance No. CXXXIV of 2002, s. 5.
+Page 40 of 57
+1
+[These measures may include the following, namely: —
+(a) screens may be used during trial to shield witnesses, Judges and Prosecutors from
+public view;
+(b) trial may be held in jail premises or through video link;
+(c) witness protection programmes may be established by the Government through
+law or rules.
+The Provincial Government shall take necessary steps to ensure that prisoners
+in Jails do not haveaccess to mobile phones.]
+(3) The Government shall extend protection to a judge 2
+[,]
+3
+[*] a counsel, public prosecutor and
+the witnesses during investigation of an offence and proceedings under this Act, and thereafter, as may be
+considered necessary.]
+1
+[(4) The provisions of this section shall have effect notwithstanding anything contained in any
+other law for the time being in force, including the Qanun-e-Shahadat, 1984 (P.O. No. X of 1984).]
+4
+[21A. Cordons for Terrorist Investigation. - (1) An area is a cordoned area for the purposes of
+a terrorist investigation under this Act, if it is so designated under this section.
+(2) A designation may be made only by an officer not below the rank of a
+2
+[Deputy
+Superintendent of Police or a member of a Joint Investigation Team], if he considers it expedient for the
+purposes of a terrorist investigation.
+(3) If a designation is made orally, the officer making it shall confirm it in writing, as soon as is
+reasonably practicable.
+(4) The officer making a designation shall arrange for the demarcation of the cordoned area, so far
+as is reasonably practicable.
+(5) An area may be designated a cordoned area for a maximum period of fourteen days, which
+may be extended in writing from time to time, with each extension specifying the additional period:
+Provided that a designation shall have no effect after 28 days beginning with the day on which it
+was made.
+(6) Where a person knows or has reasonable cause to suspect that a terrorist investigation is being
+conducted or is proposed to be conducted, a person commits an offence if he –
+1
+Ins. by Act No. VI of 2014, s. 7.
+2
+Ins. by Ordinance No. VI of 2002, s. 9.
+3Omitted by Ordinance No. CXXXIV of 2002, s. 5.
+4
+Ins. by Ordinance No. XXXIX of 2001, s. 12.
+Page 41 of 57
+(a) discloses to another, or others, anything which is likely to prejudice an
+investigation; or
+(b) interferes with material which is likely to be relevant to an investigation.
+(7) Whosoever commits an offence under sub-section (6) shall be liable on conviction to
+imprisonment for a term not less than six months and not exceeding two years, and fine.
+(8) It is a defence for a person charged with an offence under sub-section (6) to prove__
+(a) that he did not know and had no reasonable cause to suspect that the disclosure or
+interference was likely to affect a terrorist investigation; or
+(b) that he had reasonable excuse for the disclosure or interference.
+(9) For the purposes of this section:
+(a) a reference to conducting a terrorist investigation includes a reference to taking part
+in the conduct of, or assisting, a terrorist investigation; and
+(b) a person interferes with any material if he falsifies it, conceals it, destroys it or
+disposes of it, or if he causes or permits another to do any of those things.
+1
+[21AA. Protection of Judges, prosecutors, witnesses and persons concerned with Court
+proceedings.__ (1) For the purposes of protecting the Judges, prosecutors, witnesses and persons
+concerned with Court proceedings, the Court may make such necessary orders or take such measures, as
+it deems fit, which may include the following:__
+(a) proceedings may be held in camera, or under restricted entry, where necessary, to
+prevent persons from crowding or storming the Court to intimidate the Judge and/or
+prosecutor or to create a threatening atmosphere which may impede the trial;
+(b) witness anonymity order may be passed by a Court that requites such specified
+measures to be taken in relation to a witness in proceedings, as the Court considers
+appropriate to ensure that the identity of the witness is not disclosed in or in
+connection with the proceedings. The kinds of measures that may be required to be
+taken in relation to a witness may include measures for securing one or moreof the
+following:__
+(i) that the witness’s name and other identifying details shall be withheld or
+removed from materials disclosed to any party to the proceedings;
+(ii) the witness shall use a pseudonym;
+1
+Ins. by Act No. XV of 2018, s. 2.
+Page 42 of 57
+(iii) that the witness shall not be asked questions of any specified description
+that might lead to the identification of the witness;
+(iv) that the witness shall be screened so as to prevent his identification; and
+(v) that the witness’s voice is subjected to modulation to any specified extent;
+(c) live link which refers to a live television link or other arrangements whereby a
+witness, whilst absent from the courtroom but present at a prescribed location is
+able to testify and be heard and seen by a Judge. Where a direction for a live link
+has been given, Cross-examination must be conducted by live link. The Court in
+furtherance of the interest of justice may order the image and voice of the witness
+to be morphed so as to protect the identity of the same; and
+(d) identification Parade shall be carried out by way of witness screening which is the
+use of screens, curtains or two-way mirrors to shield witnesses and their identity
+from the Accused and from the public and the media as a means to reduce any
+potential intimidation and face to face confrontation.
+(2) The Court may make such an order only if it is satisfied that the following conditions are met,
+namely:___
+(a) the proposed order is necessary,__
+(i) in order to protect the safety of the witness or another person or to prevent
+any serious damage to property; or
+(ii) in order to prevent real harm to the public interest; or
+(iii) in order to ensure expeditious trial; and
+(b) having regard to all the circumstances, the effect of the proposed order should be
+consistent with the defendant receiving a fair trial.]
+21B. Terrorist Investigation.
+_
+(1) A policeman in uniform 1
+[or a member of a Joint Investigation
+Team] may:__
+(a) order a person in a cordoned area to leave immediately,
+(b) order a person immediately to leave the premises which are wholly or partly in or
+adjacent to a cordoned area,
+(c) order the driver or person in charge of a vehicle in a cordoned area to move it from
+the area immediately,
+1
+Ins. by Ordinance No. VI of 2002, s. 10.
+Page 43 of 57
+(d) arrange for the removal of a vehicle from the cordoned area,
+(e) arrange for the movement of a vehicle within a cordoned area,
+(f) prohibit or restrict access to a cordoned area by pedestrians or vehicles,
+(g) enter and search any premises in a cordoned area if he suspects anyone concerned
+with terrorism is hiding there,
+(h) search and arrest any person he reasonable suspects to be a person concerned in
+terrorism;
+Provided that any search of a person shall be done by a Police person of the same
+sex; or
+(i) take possession of any property in a cordoned area he reasonably suspects is likely
+to be used for the purposes of terrorism.
+21C. Training. (1) Weapons Training: A person commits an offence if he provides, without
+valid authorisation from the competent authority, any instruction or training in the making or use of__
+(a) firearms;
+(b) explosives; or
+(c) chemical, biological, and other weapons.
+(2) A person commits an offence if he provides without valid authorisation from the competent
+authority, any instruction or training to any child under sub-section (1) and, on conviction, shall be liable
+to a term of imprisonment of not less than ten years and fine.
+(3) A person commits an offence if he receives instruction or training from anyone, without valid
+authorisation from the competent authority, to give such instruction or training or invites another,
+specifically or generally, to receive such unauthorised instruction or training in the making or use of__
+(a) firearms;
+(b) explosives; or
+(c) chemical, biological and other weapons.
+(4) A child commits an offence if he provides, without valid authorisation from the competent
+authority, any instruction or training, or if he receives such unauthorised instruction or training or invites
+another, specifically or generally, to receive such authorised instruction or training in the making or use
+of
+Page 44 of 57
+(a) firearms;
+(b) explosives; or
+(c) chemical, biological and other weapons.
+(5) A child guilty of an offence under subsection (4) shall be liable on conviction to imprisonment
+for a term not less than six months and not exceeding five years.
+(6) (6) A person guilty of an offence under sub-section (1) and (3) shall be liable on conviction to
+imprisonment for a term not exceeding ten years, or fine or with both.
+(7) Training in Terrorism:
+(a) A person commits an offence if he provides, generally or specifically, any
+instruction or training in acts of terrorism.
+(b) A person commits an offence if he receives any instruction or training in acts of
+terrorism or invites another, specifically or generally, to receive such instruction
+or training.
+(c) A person guilty of an offence under sub-sections (a) and (b) shall, on conviction,
+be liable to imprisonment of either description for a term of not less than one year
+and not more than ten years and fine.
+(d) A person is guilty of an offence if he provides, any instruction or training in acts of
+terrorism to a child, and on conviction, shall be liable to imprisonment of either
+description for a term not less than one year and not more than ten years and fine.
+(e) A child commits an offence if he provides, generally or specifically, any instruction
+or training in acts of terrorism, and on conviction, shall be liable to imprisonment
+for a term not less than six months and not more than five years.
+(f) A child commits an offence if he receives, generally or specifically, instructions or
+training in acts of terrorism, and on conviction, shall be liable to imprisonment for
+a term not less than six months and not more than five years.
+(8) A Court by which a person is convicted of an offence under this section, may order the
+forfeiture of any thing or property which it considers to have been in the person’s possession for purposes
+connected with the offence, after giving any person, other than the convicted person, who claims to be the
+owner or is otherwise interested, an opportunity of being heard.
+21D. Bail.__ (1) Notwithstanding the provisions of sections 439, 491, 496, 497, 498, 498A and
+561A of the Code, no Court, other than an Anti-terrorism Court, a High Court or the Supreme
+Court of Pakistan, shall have the power or jurisdiction to grant bail to or otherwise release an accused
+person in a case triable by an Anti-terrorism Court.
+Page 45 of 57
+(2) All offences under this Act punishable with death or imprisonment 1
+[*] exceeding three years
+shall be non-bailable:
+Provided that if there appear reasonable grounds for believing that any person accused of nonbailable offence has been guilty of an offence punishable with death or imprisonment for life or
+imprisonment for not less than ten years, such person shall not be released on bail.
+(3) Subject to sub-section (2), the Court may admit a person to bail, unless satisfied that there are
+substantial grounds for believing that the person, if released on bail (whether subject to conditions or not),
+would;
+(a) fail to surrender to custody;
+(b) commit an offence while on bail;
+(c) interfere with a witness; otherwise obstruct or attempt to obstruct the course of
+justice, whether in relation to himself or another person; or
+(d) fail to comply with the condition of release (if any).
+(4) In exercising its powers in relation to a person seeking bail under this Act, the Court shall have
+regard to such of the following considerations (as well as to any others which it considers relevant)__
+(a) the nature and seriousness of the offence with which the person is charged;
+(b) the character, antecedents, associations and community ties of the person;
+(c) the time which the person has already spent in custody and the time which he is
+likely to spend in custody if he is not admitted to bail; and
+(d) the strength of the evidence of his having committed the offence.
+(5) Without prejudice to any other power to impose conditions on admission to bail, the Court
+admitting a person to bail under this section may impose such conditions as it considers:
+(a) likely to result in the person’s appearance at the time and place required
+2
+[including very high bail sureties], or
+1Omitted by Ordinance No. VI of 2002, s. 11.
+2
+Ins. by Act No. XX of 2013, s. 14.
+Page 46 of 57
+(b) necessary in the interests of justice or for the prevention of crime 1
+[, including
+surveillance of the person granted bail to monitor his activities and requiring him
+to report to the concerned police station at specified intervals as determined by the
+court].
+(6) Itshall be lawful for the person to be held in military or police protective custody in accordance
+with the conditions of his bail.
+(7) The Government or the Court may, under this section, at any time, in respect of a person
+charged of an offence under this Act, if it considers it necessary, by special or general order, direct special
+arrangements to be made as to the place at which the person is to be held in order:
+(a) to prevent his escape; or
+(b) to ensure his safety or the safety of others.
+21E. Remand: (1) Where a person is detained for investigation, the Investigating Officer, within
+twenty-four hours of the arrest, excluding the time necessary for the journey from the place of arrest to
+the Court, shall produce the accused before the Court, and may apply for remand of the accused to police
+custody 2
+[or custody of any other investigating agency joined in the investigation], for which the
+maximum period allowed may be not less than 1
+[fifteen days and not more] than thirty daysat one time:
+Provided that, where an accused cannot within twenty-four hours be produced before the Court, a
+temporary order for police custody 2
+[or custody of any other investigating agency joined in the
+investigation] not exceeding twenty-four hours may be obtained from the nearest Magistrate for the
+purpose of producing the accused before the Court within that period.
+(2) No extension of the time of the remand of the accused in police custody 2
+[or custody of any
+other investigating agency joined in the investigation] shall be allowed, unless it can be shown by the
+Investigating Officer, to the satisfaction of the Court that further evidence may be available and the Court
+is satisfied that no bodily harm has been or will be caused to the accused;
+Provided that the total period of such remand shall not exceed 1
+[ninety] days.
+(3) The Court shall be deemed to be a Magistrate for purposes of sub-section (1) 1
+[:]
+1
+[Provided that the Magistrates appointed under the Shariah Nizam-e-Adl Regulation, 2009 shall
+also have the same powers as given to a court under this section.]
+1
+[21EE. Power to call information etc.__ (1) The Superintendent of Police during the course of
+investigation or an equivalent officer of security forces operating in aid of civil power under sections 4
+and 5, may by an order in writing, on the request of the Joint Investigation Team,__
+(a) call for information from any person for the purpose of satisfying himself whether
+there has been any contravention of the provisions of this Act or any rule or order
+made there under;
+1
+Ins. and subs. by Act No. XX of 2013, ss. 14 and 15.
+2
+Ins. by Ordinance No. VI of 2002, s. 12.
+Page 47 of 57
+(b) require any person to produce or deliver any document or thing useful or relevant
+to the inquiry or investigation;
+(c) examine any person acquainted with the facts;
+(d) with the permission of the Anti-terrorism Court, require any bank of financial
+institution, notwithstanding anything contained in any other law for the time being
+in force, to provide any information relating to any person, including copies of
+entries made in the bank’s or a financial institution’s book, including information
+of transactions saved in electronic or digital form which are reasonably believed to
+be connected with commission of an offence under this Act and the keeper of such
+books or records shall be obliged to certify the copies in accordance with law; and
+(e) require information or obtain record of telephone and mobile phone data, e- mail,
+MMS and CNIC and encrypted messages or any other information suspected to be
+linked in any manner with commission of an offence under this Act, from any
+service provider company of department.
+(2) The copies obtained, information received or evidence collected in pursuance of clauses (d)
+and (e) of sub-section (1) shall be kept confidential and shall not be divulged to any un-authorized person
+or used for any purpose other than the legal proceedings under this Act.
+(3) Any contravention of an order made under sub-section (1) shall be punishable with
+imprisonment which may extend to 1
+[three years or with fine which may extend to one million rupees in
+case of an individual and ten million rupees in case of a legal person or with both].
+2IF. Remissions.
+__ Notwithstanding anything contained in any law or prison rules for the time
+being in force, no remission in any sentence shall be allowed to a person,
+2
+[****] who is convicted and
+sentenced for any offence under this Act,
+2
+[*****] 2
+[:]
+2
+[Provided that in case of a child convicted and sentenced for an offence under this Act, on
+satisfaction of government, may be granted remission, as deemed appropriate.]
+21G. Trial of Offences.__ All offences under this Act shall be tried 3
+[exclusively] by the AntiTerrorism Court established under this Act 2
+[:]
+2
+[Provided that the Courts of Zila Qazi or Azafi Zila Qazi established under the Shariah Nizam-eAdl Regulation, 2009 shall deemed to be the court and shall try all cases so assigned to them by the
+administrative judge designated under sub-section (2) or sub-section (4) of section 13, as the case may
+be.]
+1Subs. by Act No. XXIII of 2020, s. 11.
+2Omitted, subs., ins. and added by Act No. XX of 2013, ss. 17 and 18.
+3
+Ins. by Act No. II of 2005, s. 10.
+Page 48 of 57
+21H. Conditional admissibility of confession.
+__ Notwithstanding anything contained in the
+Qanun-e-Shahadat, 1984 (President’s Order No. 10 of 1984) or any other law for the time being in force,
+where in any court proceedings held under this Act the evidence (which includes circumstantial and other
+evidence) produced raises the presumption that there is a reasonable probability that the accused has
+committed the offence, any confession made by the accused during investigation without being compelled,
+before a police officer not below the rank of a 1
+[District Superintendent of Police], may be admissible in
+evidence against him, if the Court so deems fit:
+Provided that the 1
+[District Superintendent of Police] before recording any such confession, had
+explained to the person making it that he is not bound to make a confession and that if he does so it may
+be used as evidence against him and that no Distt. Superintendent of Police has recorded such confession
+unless, upon questioning the person making it, the Distt. Superintendent of Police had reason to believe
+that it was made voluntarily; and that when he recorded the confession, he made a memorandum at the
+foot of such record to the following effect:
+“I have explained to (....name….), that he is not bound to make a confession and that, if he does
+so, any confession he may make may be used as evidence against him and I believe that this confession
+was voluntarily made. It was taken in my presence, and was read over to the person making it and admitted
+by him to be correct, and it contains a full and true account of the statement made by him.”
+(Signed)
+1
+[District Superintendent of Police].
+21I. Aid and abetment.__ Whoever aids or abets any offence, under this Act shall be punishable
+with the maximum term of same imprisonment provided for the offence or the fine provided for such
+offence or with both.
+21J. Harbouring.__ (1) A person commits an offence if he harbours any person who has
+committed an offence under this Act.
+(2) A person guilty of an offence under subsection (1) shall be liable on conviction topunishment
+as provided in sections 216 and 216A of the Pakistan Penal Code (Act XLV of 1860).
+21K. Offences triable by way of summary procedure.__ All offences under this Act punishable
+with imprisonment for a term of not more than six months with or without fine shall be tried by way of
+summary procedure.
+21L. Punishment for an absconder.__ Whoever being accused of an offence under this Act,
+absconds and avoids arrest or evades appearance before any inquiry, investigation or court proceedings or
+conceals himself, and obstructs the course of justice, shall be liable to imprisonment for a term not less
+than 2
+[five years] and not more than 2
+[ten years] or with fine or with both.
+1The original word was “superintendent of Police” which read as “District Superintendent of Police” as mentioned in the corrigendum, dated 29th
+August, 2001.
+1Subs. by Act No. II of 2005, s. 11.
+Page 49 of 57
+21M. Joint Trials.__ (1) While trying any offence under this Act, a Court may also try any other
+offence with which an accused may, under the Code of Criminal Procedure, 1898, be charged, at the same
+trial if the offence is connected with such other offence.
+(2) If, in the course of any trial under this Act of any offence it is found that the accused person
+has committed any other offence under this Act or any other law for the time being in force, the Court
+may convict an accused for such other offence and pass any sentence authorised by this Act or, as the case
+may be, such other law, for the punishment thereof.]
+22. Manner and place of execution of sentence.− The Government may specify the manner,
+mode and place of execution of any sentence passed under this Act, having regard to the deterrent effect
+which such execution is likely to have.
+23. Power to transfer cases to regular courts.− Where, after taking cognizance of an offence,
+1
+[an Anti-terrorism Court] is of opinion that the offence is not a scheduled offence, it shall,
+notwithstanding that it has no jurisdiction to try such offence, transfer the case for trial of such offence
+to any court having jurisdiction under the Code, and the Court to which the case is transferred may proceed
+with the trial of the offence as if it had taken cognizance of the offence.
+24. 1
+[* * * * * * *]
+25. Appeal. − (1) An appeal against the final judgment of 1
+[an Anti-terrorism Court] shall lie to
+1
+[a High Court].
+(2) Copies of the judgment of 1
+[an Anti-terrorism Court] shall be supplied to the accused and the
+Public Prosecutor free of cost on the day the judgment is pronounced and the record of the trial shall be
+transmitted to 1
+[the High Court] within three days of the decision.
+(3) An appeal under sub-section (1) may be preferred by a person sentenced by 1
+[an AntiterrorismCourt] to 1
+[a High Court] within 2
+[fifteen] days of the passing of the sentence.
+(4) The Attorney General, 3
+[Deputy Attorney General, Standing Counsel] or an Advocate General
+3
+[or An Advocate of the High Court or the Supreme Court of Pakistan appointed as Public Prosecutor,
+Additional Public Prosecutor or a Special Public Prosecutor] may, on being directed by the Federal or a
+Provincial Government, file an appeal against an order of acquittal or a sentence passed by 1
+[an Antiterrorism Court] within 2
+[thirty] days of such order.
+4
+[(4A) Any person who is a victim or legal heir of a victim and is aggrieved by the order of acquittal
+passed by an Anti-terrorism Court, may, within thirty days, file an appeal in a High Court against such
+order.
+1Subs. and omitted by Ordinance No. XIII of 1999, ss. 2 and 14.
+2Subs. by Act No. XX of 2013, s. 19.
+3
+Ins. by Ordinance No. XIX of 2000, s. 3.
+4
+Ins. by Act No. X of 2004, s. 2.
+Page 50 of 57
+(4B) If an order of acquittal is passed by an Anti-terrorism Court in any case instituted upon
+complaint and the High Court, on an application made to it by the complainant in this behalf, grant special
+leave to appeal from the order of acquittal, the complainant may within thirty days present such an appeal
+to the High Court.]
+(5) An appeal under this section shall be heard and decided by 1
+[a High Court] within seven
+working days.
+(6)-(7) 3
+[* * * * * * *]
+(8) Pending the appeal 1
+[the High Court] shall not release the accused on bail.
+2
+[(9) For the purposes of hearing appeals under this section each High Court shall establish a
+Special Bench of Benches consisting of not less than two Judges.
+(10) While hearing an appeal, the Bench shall not grant more than two consecutive adjournments.]
+26. 3
+[* * * * * * *]
+27. Punishment for defective investigation 4
+[and reward for successful investigation].–
+4
+[(1)]
+If 1
+[an Anti-terrorism Court] or 1
+[a High Court] comes to the conclusion during the course of or at the
+conclusion of the trial that the investigating officer, or other concerned officers have failed to carry out
+the investigation properly or diligently or have failed to pursue the case properly and in breach of their
+duties, it shall be lawful for such Court or, as the case may be, 1
+[High Court] to punish the delinquent
+officers with imprisonment which may extend to two years, or with fine, or with both by resort to summary
+proceedings.
+4
+[(2) Incentive systems shall be introduced by the Provincial Governments providing for
+appropriate rewards to investigating officers who conduct successful investigation.]
+5
+[27A. Presumption of proof against accused.
+__ Any person having in possession any explosive
+substance with or without explosive devices without lawful justification or having been unlawfully
+concerned with such explosive substance and devices, shall be presumed, unless contrary is proved, that
+the explosive substance was for the purpose of terrorism.]
+1Subs. and added by Ordinance No. XIII of 1999, ss. 2 and 15.
+2Added by Act No. II of 2005, s. 12.
+3Omitted by Ordinance No. XIII of 1999, s. 16.
+4Added, re-numbered and ins. by Act No. VI of 2014, s. 8.
+5
+Ins. by Act No. XX of 2013, s. 20.
+Page 51 of 57
+1
+[27AA. Punishment for false implication.__ Where an investigating officer dishonestly and
+falsely involves, implicates or arrests a person alleged to have committed any scheduled offence shall be
+punishable with imprisonment for a term which may extend to two years or with line or with both:
+Provided that action against such investigating officer shall not be taken without the prior approval
+of the Government.
+27B. Conviction on the basis of electronic or forensic evidence etc.__ Notwithstanding anything
+contained in this Act or Qanun-e-Shahadat, 1984 (P.O. No. 10 of 1984) or any other law for the time being
+in force, a person accused of an offence under this Act may be convicted on the basis of electronic or
+forensic evidence or such other evidence that may have become available because of modern devices or
+techniques referred to in Article 164 of the Qanun-e-Shahadat, 1984 (P.O. No. 10 of 1984):
+Provided that the Court is fully satisfied as to the genuineness of such evidence]
+28. Transfer of Cases.− (1) Notwithstanding anything contained in this Act, 2
+[the Chief Justice
+of High Court concerned 3
+[on the application of any party to the proceedings” or on the application of the
+Federal Government or a Provincial Government] may, if he] considers it expedient so to do in the interest
+of justice, or where the convenience or safety of the witnesses or the safety of the accused so requires,
+transfer any case from one 4
+[Anti-terrorism Court] to another 4
+[Anti-terrorism Court] within or outside the
+area.
+1
+[(1A) Where it appears to the Government that it would be in the interest of justice or expedient
+for protection and safety of judges, witnesses or prosecutors, it may apply to the Chief Justice of the High
+Court concerned for transfer of a case from, an Anti-terrorism Court falling within its jurisdiction toan
+Anti-terrorism Court in any other place in Pakistan and for this purpose shall also seek concurrence of the
+Chief Justice of the High Court concerned.]
+(2) 4
+[An Anti-terrorism Court] to which a case is transferred under sub-section (1) shall proceed
+with the case from the stage at which it was pending immediately before such transfer and it shall not
+be bound to recall and re-hear any witness who has given evidence and may act on the evidence already
+recorded 4
+[:]
+4
+[Provided that nothing herein contained shall affect the power of the presiding officer of the Antiterrorism Court to call any witness as is available under the law.]
+1
+[(3) The Federal Government may in the interests of justice and for protection and safety of
+witnesses and investigators, transfer the investigation of any case from, one place to any other place in
+Pakistan.]
+1
+Ins. a n d a d d e d by Act No. VI of 2014, ss. 9-10.
+2Subs. by Ordinance No. VI of 2002, s. 13.
+3
+Ins. by Act No. XX of 2013, s. 21.
+4Subs. and added by Ordinance No. XIII of 1999, ss. 2 and 17.
+Page 52 of 57
+(4) The investigating officer or the agency to which case is transferred under sub-section (3), may
+proceed from the stage the inquiry or investigation was left or may proceed with the case as if it had been
+originally entrusted to him or the agency, as the case may be.
+(5) On completion of investigation and before submission of report under section 173 of the Code,
+the Federal Government may direct that the case falling in the jurisdiction of a particular Anti-terrorism
+court may be forwarded for trial to another Anti-terrorism court anywhere in Pakistan, as may be specified
+by the Federal Government in this behalf, in the public interests or for the safety and protection of judges,
+public prosecutors or witnesses.]
+1
+[28A. Impounding of passport of person charge-sheeted under the Act.− Notwithstanding
+anything contained in any other law for the time being in force, the passport of a person, who is accused
+of an offence under this Act, shall be deemed to have been impounded for such period as the Court may
+deem fit.]
+29. Trial before 2
+[Anti-terrorism Court] to have precedence.− A trial under this Act of an
+offence by 2
+[an Anti-terrorism Court], and the appearance of an accused before it, shall have precedence
+over the trial of any other case against the accused in any other court, except the High Court on its original
+side.
+30. Modified application of certain provisions of the Code.− (1) Notwithstanding anything
+contained in the Code or in any other law, every scheduled offence shall be deemed to be a cognizable
+offence within the meaning of clause (f) of section 4 of the Code and the words “cognizable case” as
+defined in the clause shall be construed accordingly.
+(2) Sections 374 to 379 of the Code shall apply in relation to a case involving a scheduled offence
+subject to the modification that the reference to a “Court of Session,” and “High Court”, wherever
+occurring therein, shall be construed as reference to 3
+[an Anti-terrorism Court] and 2
+[the High Court].
+(3) 3
+[* * * * * * *]
+(4) 3
+[* * * * * * *]
+31. Finality of judgment.− A judgment or order passed, or sentence awarded, by 3
+[an Antiterrorism Court], subject to the result of an appeal under this Act shall be final and shall not be called in
+question in any court.
+32. Overriding effect of Act.− (1) The provisions of this Act shall have effect notwithstanding
+anything contained in the Code or any other law but, save as expressly provided in this Act, the provisions
+of the Code shall, in so far as they are not inconsistent with the provisions of this Act, apply to the
+proceedings before 2
+[an Anti-terrorism Court]; and for the purpose of the said provisions of the Code, 2
+[an
+Anti-terrorism Court] shall be deemed to be a Court of Session.
+1
+Ins. by Act No. II of 2005, s. 13.
+2Subs. by Ordinance No. XIII of 1999, s. 2.
+3Omitted by Ordinance No. XXXIX of 2001, s.13
+Page 53 of 57
+(2) In particular and without prejudice to the generality of the provisions contained in sub-section
+(1), the provisions of section 350 of the Code shall, as far as may be, apply to the proceedings before 1
+[an
+Anti-terrorism Court] and for this purpose any reference in those provisions to a Magistrate shall be
+construed as a reference to 1
+[an Anti-terrorism Court].
+33. Delegation. − The Government may, by notification, delegate, subject to such conditions as
+may be specified therein, all or any of the powers exercisable by it under this Act.
+34. Power to amend the Schedule.− The Government may, by notification, amend the
+2
+[Schedules] so as to add any entry thereto or modify or omit any entry therein.
+3
+[35. Powers to make rules.
+_ _ The Federal Government or a Provincial Government may, by
+notification in the official Gazette, make rules for carrying out the purposes of this Act.]
+36. Saving. − (1) Nothing contained in this Act shall affect the jurisdiction exercisable by, or the
+procedure applicable to, any court or other authority under any law relating to the Naval, Military or Air
+Forces or any other armed force of the Government.
+(2) For removal of any doubt, it is hereby declared that, for the purposes of any such law as is
+referred to in sub-section (1), 1
+[an Anti-terrorism Court] shall be deemed to be a court of ordinary criminal
+jurisdiction.
+1
+[37. Contempt of Court.__ An Anti-terrorism Court shall have the power to punish with
+imprisonment for a term which may extend to six months and with fine any person who —
+(a) abuses, interferes with or obstructs the process of the Court in any way or
+disobeys any order or direction of the Court;
+(b) scandalizes the Court or otherwise does anything which tends to bring the court or
+a person constituting the Court into hatred, ridicule or contempt;
+(c) does anything which tends to prejudice the determination of a matter pending or
+most likely to come up before the Court;
+(d) does anything which, by any other law, constitutes contempt of court.
+Explanation. In this section, “Court means” Anti-terrorism Court.]
+38. Punishment for terrorist act committed before this Act.− Where a person has committed
+an offence before the commencement of this Act which if committed after the date on which this Act
+comes into force would constitute a terrorist act hereunder he shall be tried under this Act but shall be
+liable to punishment as authorised by law at the time the offence was committed.
+39. Indemnity.− No suit, prosecution or other legal proceedings shall lie against any person in
+respect of anything which is in good faith done or intended to be done under this Act.
+1Subs. by Ordinance No. XIII of 1999, ss. 2 and 18.
+2Subs. by Act No. VII of 2014, s. 16.
+3Subs. by A c t No. XX of 2013, s. 22.
+Page 54 of 57
+1
+[39A. Removal of difficulties.
+__ If any difficulty arises in giving effect to any provisions of this
+Act, the Federal Government may make such order, not inconsistent with the provisions of this Act, as
+may appear to it to be necessary for the purposes of removing the difficulty.]
+1
+[39B. Repeal and Savings.
+__ (1) The Suppression of Terrorist Activities (Special Courts) Act,
+1975, (XV of 1975) is hereby repealed.
+(2) Notwithstanding the repeal of the Suppression of Terrorist Activities (Special Courts) Act,
+1975, (XV of 1975) and the amendments of the Anti-terrorism Act, 1997 (XXVII of 1997), by the Antiterrorism (Amendment) Ordinance, 2001—
+(a) every order, decision or judgment passed by any Anti-terrorism Court constituted
+under this Act or Special Court constituted under the Suppression of Terrorist
+Activities (Special Courts) Act, 1975, or any Appellate Court before such repeal or
+amendment shall remain in force and operative and the repeal or amendment shall
+not affect the previous operation of the law or any thing duly done or suffered or
+punishment incurred thereunder;
+(b) every case, appeal and legal proceedings whatsoever filed or pending before any
+court under the Suppression of Terrorist Activities (Special Courts) Act 1975,
+including the High Court and the Supreme Court shall continue to be proceeded
+with in accordance with law before the concerned court of competent jurisdiction,
+including the court established under this Act, and all orders passed, decisions made
+and judgments delivered whether in the past or which may be made delivered
+hereafter by such concerned court whether original, appellate or revisional, shall be
+deemed to have been validly and competently made.
+(c) all convictions made, punishments or sentences awarded by the Anti-terrorism
+Court or Special Court or an Appellate Court before such repeal or amendment shall
+be executed as if the said Acts were in force;
+(d) any investigation or inquiry under this Act or the Suppression of Terrorists
+Activities (Special Courts) Act, 1975 made or instituted before the commencement
+of the Anti-terrorism (Amendment) Ordinance, 2001, shall continue to be made and
+proceeded with in accordance with law;
+(e) all cases pending before the Anti-terrorism Court or Special Court immediately
+before the commencement of the Anti-terrorism (Amendment) Ordinance, 2001, if
+not covered by this Act or clauses (a) and (b) above, shall stand transferred to the
+respective Courts of Sessions of the area or such other courts of competent
+jurisdiction where the cases were registered against the accused and such courts
+shall proceed with the cases from the stage at which they were pending, without the
+necessity of recalling any witnesses; and
+(f) the Court of Sessions or, as the case may be, any other court to which a case has
+been transferred from the Anti-terrorism Court or a Special Court under clause (d)
+shall try it in accordance with the provisions of the Code of Criminal Procedure,
+1898 (Act V of 1898), and the law applicable to such case.]
+1
+Ins. by Ordinance No. XXXIX of 2001, ss. 15 and 16.
+Page 55 of 57
+40. Amendment of the Criminal Law Amendment Act, 1908 (XIV of 1908).− In the Criminal
+Law Amendment Act, 1908 (XIV of 1908), the following amendments shall be made, namely: -
+I. In section 15, in clause (2) in sub-clause (a) for the words “violence or intimidation”
+the words “terrorism, stirring up sectarianism, violence or intimidation which
+endanger or threaten public order” shall be substituted.
+II. For section 16, the following shall be substituted, namely: -
+“16. Declaration of an association to be unlawful. − (1) If either the Federal
+Government or the Provincial Government is of the opinion that an association
+is an unlawful association it may call upon the association to show cause within
+fourteen days why it should not be declared as unlawful association for the
+purpose of this Act.
+(2) If after hearing the association, the Federal Government or the Provincial
+Government is of the opinion that the association is an unlawfulassociation it
+may declare such association to be an unlawful association.
+(3) If the Federal Government or the Provincial Government is of the opinion
+that in the interest of the maintenance of public order or to prevent injury to the
+people it is just and necessary to take immediate action, it may, pending passing
+of order under sub-section (2), by an ad interim order, declare an association to
+be unlawful.
+(4) An association aggrieved by an order under sub-section (2) may file an
+appeal before a Board appointed by the Chief Justice of the High Court of the
+Province consisting of a chairman and two other person seach of whom is or
+has been a judge of a High Court.
+(5) The Board shall decide the appeal within thirty days and may pass such
+order as it may deem fit.”
+III. In section 17, —
+(i) in sub-section (1) for the words “six months” the words “five years” shall
+be substituted; and
+(ii) in sub-section (2) for the words “three years” the words “seven years”
+shall be substituted.
+IV. In sections 17A, 17D and 17E, for the words “Provincial Government” wherever
+occurring the words “Federal Government or the Provincial Government” shall be
+substituted.
+Page 56 of 57
+1
+[THE FIRST SCHEDULE
+(List of Proscribed Organizations)
+[see section 11B]
+THE SECOND SCHEDULE
+(List of Organizations under Observation)
+[see section 11D (1)(a)]
+THE THIRD SCHEDULE
+(Scheduled Offences)
+[see section 2(t)]
+1. Any act of terrorism within the meaning of this Act including those offences which may be
+added or amended in accordance with the provisions of section 34 of this Act.
+2. Any other offence punishable under this Act.
+3. Any attempt to commit, or any aid or abetment of, or any conspiracy to commit, any of the
+aforesaid offences.]
+2
+[4. Without prejudice to the generality of the above paragraphs, the Anti-terrorism Court to the
+exclusion of any other Court shall try the offences relating to the following, namely:__
+(i) Abduction or kidnapping for ransom;
+(ii) use of fire arms or explosives by any device, including bomb blast in a mosque,
+imambargah, church, temple or any other place of worship, whether or not any hurt
+or damage is caused thereby; or
+(iii) firing or use of explosives by any device, including bomb blast in the court
+premises.]
+1Subs. by Ordinance No. XXXIX of 2001, s. 17, for the Schedule which was previously amended by various SROs and Ord. No. XIII of 1999, s. 20.
+2Added. by Act No. II of 2005, s. 14.
+Page 57 of 57
+1
+[THE FOURTH SCHEDULE
+(see section 11EE)]
+2
+[THE FIFTH SCHEDULE
+[see section 6 (3A)]
+(a) Convention for the Suppression of Unlawful Seizure of Aircraft, done at the Hague
+on the 16th December, 1970;
+(b) Convention for the Suppression of Unlawful Acts against the Safety Convention on
+the Prevention and Punishment of Crimes against Internationally Protected Persons,
+including Diplomatic Agents, adopted by the General Assembly of the United
+Nations on the 14th December, 1973;
+(c) Convention on the Prevention and Punishment of Crimes against Internationally
+Protected Persons, including diplomatic Agents, adopted by the General Assembly
+of the United Nations on the 14th December, 1973;
+(d) International Convention against the Taking of Hostages, adopted by the General
+Assembly of the United Nations on the 17th December, 1979;
+(e) Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving
+International Civil Aviation, supplementary to the Convention for the Suppression
+of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on the 24th
+February, 1988;
+(f) Convention for the suppression of Unlawful Acts against the Safety of Maritime
+Navigation, done at Rome on the 10th March, 1988;
+(g) Protocol for the Suppression of Unlawful Acts against the Safety of Fixed
+Platforms located on the Continental Shelf, done at Rome on the 10th March, 1988;
+(h) International Convention for the Suppression of Terrorist Bombings, adopted by
+the General Assembly of the United Nations at New York on the 15th December,
+1997; and
+(i) Such other convention as may be specified by the Federal Government by
+notification in the official Gazette]
+ 5722848
+1Added by Ordinance No. CXXV of 2002, s. 4.
+2Added by Act No. XIII of 2013, s. 14.
+RGN Dated 20-10-2025
