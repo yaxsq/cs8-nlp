@@ -12,9 +12,9 @@ from rank_bm25 import BM25Okapi
 from dotenv import load_dotenv
 
 # ─────────────────────────────────────────────────────────────
-#  CONFIG — reads from environment variables (HF Secrets)
+#  CONFIG — reads from environment variables
 # ─────────────────────────────────────────────────────────────
-load_dotenv(os.path.join(os.path.dirname(__file__), "..", ".env"))
+load_dotenv()
 
 PINECONE_API_KEY = os.environ.get("PINECONE_API_KEY", "")
 PINECONE_INDEX   = os.environ.get("PINECONE_INDEX", "pakistani-law")
@@ -589,7 +589,4 @@ with gr.Blocks(title="Pakistani Law RAG", theme=gr.themes.Soft()) as demo:
 # ─────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     startup()
-    demo.launch()
-else:
-    # HF Spaces calls this automatically
-    startup()
+    demo.launch(ssr_mode=False)
