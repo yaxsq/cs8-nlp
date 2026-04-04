@@ -4,6 +4,8 @@ A Retrieval-Augmented Generation (RAG) application for Pakistani law, built with
 
 ## Live Demo
 
+**HuggingFace Space:** https://huggingface.co/spaces/yaxsq/pakistani-law-rag
+
 Deployed on HuggingFace Spaces — runs `app.py` automatically.
 
 ## Features
@@ -38,15 +40,27 @@ Chunked into two strategies:
 - `chunks_fixed.json` — fixed-size chunks (4138 chunks)
 - `chunks_recursive.json` — recursive chunks (4768 chunks)
 
+## Notebooks
+
+Development and evaluation were done across 4 notebooks:
+
+| Notebook | Purpose |
+|---|---|
+| `01_data_and_embeddings.ipynb` | Document loading, chunking (fixed + recursive), embedding, and Pinecone index upload |
+| `02_retrieval_pipeline.ipynb` | BM25, semantic search, RRF fusion, and cross-encoder reranking experiments |
+| `03_llm_generation_evaluation.ipynb` | LLM generation pipeline, prompt design, faithfulness and relevancy evaluation |
+| `04_production_evaluation.ipynb` | End-to-end production evaluation across chunking strategies and retrieval modes |
+
 ## Files
 
 ```
-app.py              — HuggingFace Spaces entry point
-applocal.py         — Local development entry point
-requirements.txt    — Python dependencies
-CLAUDE.md           — Claude Code setup notes
-chunks_fixed.json   — Fixed-size chunk corpus (not in repo — add manually)
-chunks_recursive.json — Recursive chunk corpus (not in repo — add manually)
+app.py                          — HuggingFace Spaces entry point
+applocal.py                     — Local development entry point
+requirements.txt                — Python dependencies
+CLAUDE.md                       — Claude Code setup notes
+notebooks/                      — Development and evaluation notebooks
+chunks_fixed.json               — Fixed-size chunk corpus (not in repo — add manually)
+chunks_recursive.json           — Recursive chunk corpus (not in repo — add manually)
 ```
 
 ## Local Setup
